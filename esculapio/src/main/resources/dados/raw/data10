@@ -1,0 +1,91 @@
+50150014,50150014,50150014,50150014,30313023,Dacriocistectomia - unilateral
+50150022,50150022,50150022,50150022,30313031,Dacriocistorrinostomia com ou sem intubação - unilateral
+50150030,50150030,50150030,50150030,30313040,Fechamento dos pontos lacrimais
+50150073,50150073,50150073,50150073,30313058,Reconstituição de vias lacrimais com silicone ou outro material
+50150057,50150057,50150057,50150057,30313066,Sondagem das vias lacrimais - com ou sem lavagem
+50150065,50150065,50150065,50150065,30313074,Reconstituição de pontos lacrimais
+41090012,41090012,41090012,41090012,30401011,Biópsia de pavilhão auricular
+"","","","",30401020,Exérese de tumor com abordagem craniofacial oncológica pavilhão auricular (tempo facial)
+41090020,41090020,41090020,41090020,30401038,Exérese de tumor com fechamento primário
+54110122,54110122,"","",30401046,Outros defeitos congênitos que não a microtia
+54110076,54110076,"","",30401054,Reconstrução  de orelha - retoques
+54110025,54110025,54110025,54110025,30401062,Reconstrução de unidade anatômica do pavilhão auricular - por estágio
+54110050,54110050,"","",30401062,Reconstrução de unidade anatômica do pavilhão auricular - por estágio
+54110068,54110068,54110068,54110068,30401070,Reconstrução total de orelha (único estágio)
+41090047,41090047,41090047,41090047,30401089,"Ressecção de tumor de pavilhão auricular, incluindo parte do osso temporal"
+41090039,41090039,41090039,41090039,30401097,Ressecção subtotal ou total de orelha
+54110084,54110084,54110084,54110084,30401100,Tratamento cirúrgico de sinus pré-auricular
+51020114,51020114,51020114,51020114,30402018,Aspiração auricular ou curativo
+51020033,51020033,51020033,51020033,30402026,Biópsia (orelha externa)
+51020041,51020041,51020041,51020041,30402026,Biópsia (orelha externa)
+51020025,51020025,51020025,51020025,30402034,Cisto pré-auricular (coloboma auris) - exérese-unilateral
+51020033,51020033,51020033,51020033,30402042,"Corpos estranhos, pólipos ou biópsia - em consultório"
+51020041,51020041,51020041,51020041,30402050,"Corpos estranhos, pólipos ou biópsia - em hospital sob anestesia geral"
+51020050,51020050,51020050,51020050,30402069,Estenose de conduto auditivo externo - correção
+51020068,51020068,51020068,51020068,30402077,Furúnculo - drenagem (ouvido)
+51020084,51020084,51020084,51020084,30402085,Pericondrite de pavilhão - tratamento cirúrgico com desbridamento
+51020092,51020092,51020092,51020092,30402093,Tumor benigno de conduto auditivo externo - exérese
+54110092,54110092,"","",30402093,Tumor benigno de conduto auditivo externo - exérese
+"","","","",30403014,Cauterização de membrana timpânica
+51020122,51020122,51020122,51020122,30403030,Estapedectomia ou estapedotomia
+51020130,51020130,51020130,51020130,30403049,Exploração e descompressão parcial do nervo facial intratemporal
+51020149,51020149,51020149,51020149,30403057,Fístula perilinfática - fechamento cirúrgico
+51020157,51020157,51020157,51020157,30403065,Glomus jugular - ressecção
+51020165,51020165,51020165,51020165,30403073,Glomus timpânicus - ressecção
+51020181,51020181,51020181,51020181,30403081,Mastoidectomia simples ou radical modificada
+51020190,"","","",30403081,Mastoidectomia simples ou radical modificada
+51020203,51020203,51020203,51020203,30403090,Ouvido congênito - tratamento cirúrgico
+51020211,51020211,51020211,51020211,30403103,"Paracentese do tímpano - miringotomia, unilateral (em consultório)"
+51020262,51020262,51020262,51020262,30403111,Tímpano-mastoidectomia
+51020254,51020254,51020254,51020254,30403120,Timpanoplastia com reconstrução da cadeia ossicular
+51020246,51020246,51020246,51020246,30403138,Timpanoplastia tipo I - miringoplastia - unilateral
+51020238,51020238,51020238,51020238,30403146,Timpanotomia exploradora - unilateral
+51020220,51020220,51020220,51020220,30403154,Timpanotomia para tubo de ventilação - unilateral
+"","",51020416,51020416,30403162,"Paracentese do tímpano, unilateral, em hospital/anest. geral"
+51020270,51020270,51020270,51020270,30404010,"Doença de Meniere - tratamento cirúrgico - descompressão do saco endolinfático ou ""shunt"""
+51020300,51020300,51020300,51020300,30404029,Enxerto parcial intratemporal do nervo facial - do foramem estilo-mastóideo ao gânglio geniculado
+51020319,51020319,51020319,51020319,30404037,Enxerto parcial intratemporal do nervo facial - do gânglio geniculado ao meato acústico interno
+51020327,51020327,51020327,51020327,30404045,Enxerto total do nervo facial intratemporal
+51020297,51020297,51020297,51020297,30404053,"Exploração e descompressão total do nervo facial (transmastóideo, translabiríntico, fossa média)"
+51020394,51020394,51020394,51020394,30404061,Implante coclear (exceto a prótese)
+"","","","",30404070,Injeção de drogas intratimpânicas
+51020335,51020335,51020335,51020335,30404088,Labirintectomia (membranosa ou óssea) - sem audição
+"","",51020408,51020408,30404096,Neurectomia vestibular para fossa média ou posterior
+51020343,51020343,51020343,51020343,30404100,Neurectomia vestibular translabiríntica - sem audição
+51020360,51020360,51020360,51020360,30404126,Ressecção do osso temporal
+51020378,51020378,51020378,51020378,30404134,Tumor do nervo acústico - ressecção via translabiríntica ou fossa média
+51020386,"","","",30404134,Tumor do nervo acústico - ressecção via translabiríntica ou fossa média
+51020289,"","","",30404142,Doença de Meniere - tratamento cirúrgico com ultrassom
+51030012,51030012,51030012,51030012,30501016,Abscesso ou hematoma de septo nasal - drenagem
+"","","","",30501024,Abscesso ou hematoma de septo nasal - drenagem sob anestesia geral
+54090016,54090016,54090016,54090016,30501040,Alongamento de columela
+51030020,51030020,51030020,51030020,30501059,Biópsia de nariz
+41080017,41080017,41080017,41080017,30501059,Biópsia de nariz
+51030063,51030063,51030063,51030063,30501067,Corneto inferior - cauterização linear - unilateral
+"","",51030268,51030268,30501067,Corneto inferior - cauterização linear - unilateral
+51030055,51030055,51030055,51030055,30501075,Corneto inferior - infiltração medicamentosa (unilateral)
+51030039,51030039,51030039,51030039,30501083,Corpos estranhos - retirada em consultório (nariz)
+51030047,51030047,51030047,51030047,30501091,Corpos estranhos - retirada sob anestesia geral / hospital
+51030071,51030071,51030071,51030071,30501113,Epistaxe - cauterização (qualquer técnica)
+51030233,51030233,51030233,51030233,30501121,Epistaxe - cauterização da artéria esfenopalatina com microscopia - unilateral
+51030241,51030241,51030241,51030241,30501130,Epistaxe - cauterização das artérias etmoidais com microscopia - unilateral
+51030250,51030250,51030250,51030250,30501148,Epistaxe - ligadura das artérias etmoidais - acesso transorbitário - unilateral
+51030098,51030098,51030098,51030098,30501156,Epistaxe - tamponamento  antero-posterior
+51030080,51030080,51030080,51030080,30501164,Epistaxe - tamponamento anterior
+"","",51030276,51030276,30501172,Epistaxe - tamponamento antero-posterior sob anestesia geral
+"","","","",30501180,Exérese de tumor com abordagem craniofacial oncológica (tempo facial) pirâmide nasal
+"","","","",30501199,Exérese de tumor nasal por via endoscopica
+"","","","",30501202,Fechamento de fístula liquórica transnasal
+"","","","",30501210,Fístula liquórica - tratamento cirúrgico endoscópico intranasal
+54090032,"","","",30501229,Fraturas dos ossos nasais - redução cirúrgica e gesso
+54090040,"","","",30501229,Fraturas dos ossos nasais - redução cirúrgica e gesso
+54150035,54150035,54150035,54150035,30501229,Fraturas dos ossos nasais - redução cirúrgica e gesso
+"","",51030284,51030284,30501237,Fraturas dos ossos nasais - redução incruenta e gesso
+"","",51030292,51030292,30501237,Fraturas dos ossos nasais - redução incruenta e gesso
+54150027,54150027,54150027,54150027,30501237,Fraturas dos ossos nasais - redução incruenta e gesso
+51030101,51030101,51030101,51030101,30501245,Imperfuração coanal - correção cirúrgica intranasal
+51030110,51030110,51030110,51030110,30501253,Imperfuração coanal - correção cirúrgica transpalatina
+54020123,54020123,54020123,54020123,30501253,Imperfuração coanal - correção cirúrgica transpalatina
+51030128,51030128,51030128,51030128,30501261,Ozena - tratamento cirúrgico
+51030136,51030136,51030136,51030136,30501270,Perfuração do septo nasal - correção cirúrgica
+54090024,54090024,54090024,54090024,30501270,Perfuração do septo nasal - correção cirúrgica

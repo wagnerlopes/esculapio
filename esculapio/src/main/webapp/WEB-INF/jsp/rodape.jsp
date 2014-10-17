@@ -1,0 +1,2 @@
+<%-- $Id$ --%>
+<%@page contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" trimDirectiveWhitespaces="true" %><%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%><div id="footer" class="row text-center">  <hr />  <fmt:message key="app.rodape"/>&nbsp; - <fmt:message key="app.descricao"/>&nbsp; - vers&atilde;o <fmt:message key="app.versao"/></div>

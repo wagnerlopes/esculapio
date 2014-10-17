@@ -1,0 +1,91 @@
+56030070,56030070,56030070,56030070,31307086,Ligadura de veia ovariana
+"","","","",31307094,Ligamentopexia pélvica
+"","","",45110042,31307108,Neurectomia pré-sacral ou do nervo gênito-femoral
+"","","","",31307116,Omentectomia
+"","","","",31307124,Ressecção de tumor de parede abdominal pélvica
+45050171,45050171,"",45110069,31307132,Ressecção ou ligadura de varizes pélvicas
+"","","",45110034,31307140,Secção de ligamentos útero-sacros
+"","","","",31307159,Câncer de ovário (Debulking) laparoscópica
+"","","","",31307167,Cirurgia laparoscópica do prolapso de cúpula vaginal (fixação sacral ou no ligamento sacro-espinhoso)
+"","","","",31307175,"Culdoplastia laparoscópica (Mac Call, Moschowicz, etc)"
+"","","","",31307183,Endometriose peritoneal - tratamento cirúrgico via laparoscópica
+"","","","",31307191,Epiploplastia ou aplicação de membranas antiaderentes via laparoscópica
+"","","","",31307205,Liberação laparoscópica de aderências pélvicas com ou sem ressecção de cistos peritoneais ou salpingólise
+"","",56030673,"",31307213,Ligadura de veia ovariana laparoscópica
+"","","","",31307221,Ligamentopexia pélvica laparoscópica
+"","","","",31307230,Neurectomia laparoscópica pré-sacral ou do nervo gênito-femoral
+"","","","",31307248,Omentectomia laparoscópica
+"","","","",31307256,Ressecção laparoscópica de tumor de parede abdominal
+"","","","",31307264,Ressecção ou ligadura laparoscópica de varizes pélvicas
+"","","","",31307272,Secção laparoscópica de ligamentos útero-sacros
+"","","","",31308015,Aspiração de folículos para fertilização
+"","","",45100071,31308023,GIFT (transferência de gametas para as trompas)
+"","","",45100012,31308031,Inseminação artificial
+"","","",45100063,31308040,Transferência de embrião para o útero
+"","","","",31309011,Amniorredução ou amnioinfusão
+"","","","",31309020,Aspiração manual intra-uterina (AMIU) pós-abortamento
+"","","",45080216,31309038,"Assistência ao trabalho de parto, por hora (até o limite de 6 horas). Não será paga se o parto ocorrer na primeira hora após o início da "
+45080011,45080011,45080011,45080011,31309046,"assistência. Após a primeira hora, além da assistência, remunera-se o parto (via baixa ou cesariana)Cerclagem do colo uterino (qualquer técnica)"
+45080020,45080194,45080194,45080194,31309054,Cesariana (feto único ou múltiplo)
+45080046,45080046,45080046,45080046,31309062,Curetagem pós-abortamento
+"","","","",31309070,Derivações em cirurgia fetal
+45080160,45080160,45080160,45080160,31309089,Gravidez  ectópica - cirurgia
+"","","",45080208,31309097,Indução e assistência ao aborto e feto morto retido
+45080054,45080054,45080054,45080054,31309100,Inversão  uterina  aguda  -  redução  manual  (somente  quando o parto ocorrer antes da admissão hospitalar)
+45080070,45080070,45080070,45080070,31309100,Inversão  uterina  aguda  -  redução  manual  (somente  quando o parto ocorrer antes da admissão hospitalar)
+45080089,45080089,45080089,45080089,31309119,Inversão uterina - tratamento cirúrgico
+45080186,45080186,45080186,45080186,31309127,Parto (via vaginal)
+45080097,"","","",31309127,Parto (via vaginal)
+45080100,45080100,45080100,45080100,31309135,Parto múltiplo por via vaginal (cada um subsequente ao inicial)
+"","","","",31309143,Punção escalpofetal para avaliação PH fetal
+45080178,45080178,45080178,45080178,31309151,"Revisão obstétrica de parto ocorrido fora do hospital (inclui exame, dequitação e sutura de lacerações até de 2º grau)"
+"","","","",31309178,Versão cefálica externa
+"","","","",31309186,Gravidez ectópica - cirurgia laparoscópica
+"","","","",31309194,Inversão uterina - tratamento cirúrgico laparoscópico
+45080038,45080038,45080038,45080038,31309208,Cesariana com histerectomia
+"",49010581,49050176,49050176,31401015,Biópsia estereotáxica de encéfalo
+"","",49050192,49050192,31401023,Cingulotomia ou capsulotomia unilateral
+"","",49010662,49010662,31401031,Cirurgia intracraniana por via endoscópica
+"","",49010700,49010700,31401040,Craniotomia para remoção de corpo estranho
+49010140,49010140,49010140,49010140,31401058,Derivação ventricular externa
+"","",49050184,49050184,31401066,"Drenagem estereotáxica - cistos, hematomas ou abscessos"
+49010204,49010204,"","",31401074,"Hipofisectomia por qualquer método (inclui a cirurgia de acesso, quando realizada pelo neurocirurgião)"
+49010247,49010247,"","",31401074,"Hipofisectomia por qualquer método (inclui a cirurgia de acesso, quando realizada pelo neurocirurgião)"
+"","",49050150,49050150,31401074,"Hipofisectomia por qualquer método (inclui a cirurgia de acesso, quando realizada pelo neurocirurgião)"
+"","","","",31401082,Implante de cateter intracraniano
+"",49010611,"","",31401090,Implante de eletrodo cerebral profundo
+"",49030272,"","",31401104,Implante de eletrodos cerebral ou medular
+"","",49050222,49050222,31401104,Implante de eletrodos cerebral ou medular
+"","",49050230,49050230,31401112,Implante estereotáxico de cateter para braquiterapia
+"","",49050168,49050168,31401120,Implante intratecal de bombas para infusão de fármacos
+"","",49050133,49050133,31401139,Localização estereotáxica de corpo estranho intracraniano com remoção
+"","",49050125,49050125,31401147,Localização estereotáxica de lesões intracranianas com remoção
+49010565,49010565,49010565,49010565,31401155,Microcirurgia para tumores intracranianos
+49010255,49010255,49010255,49010255,31401163,Microcirurgia por via transesfenoidal
+49010280,49010280,49010280,49010280,31401171,Microcirurgia vascular intracraniana
+49010441,49010441,49010441,49010441,31401198,Punção subdural ou ventricular transfontanela
+49010450,49010450,"","",31401198,Punção subdural ou ventricular transfontanela
+49010298,49010298,49010298,49010298,31401201,Ressecção de mucocele frontal
+"","","","",31401228,Revisão de sistema de neuroestimulação
+49010131,49010131,49010131,49010131,31401236,Sistema de derivação ventricular interna com válvulas ou revisões
+"","",49010719,49010719,31401236,Sistema de derivação ventricular interna com válvulas ou revisões
+"","","","",31401236,Sistema de derivação ventricular interna com válvulas ou revisões
+49010492,49010492,49010492,49010492,31401244,Terceiro ventriculostomia
+49010158,49010158,"","",31401252,Tratamento cirúrgico da epilepsia
+"","",49050257,49050257,31401252,Tratamento cirúrgico da epilepsia
+49010174,49010174,49010174,49010174,31401260,Tratamento cirúrgico da fístula liquórica
+49010301,49010301,49010301,49010301,31401279,Tratamento cirúrgico da meningoencefalocele
+49030213,"","","",31401279,Tratamento cirúrgico da meningoencefalocele
+"","",49010735,49010735,31401287,Tratamento cirúrgico de tumores cerebrais sem microscopia
+49010018,49010018,49010018,49010018,31401295,Tratamento cirúrgico do abscesso encefálico
+49010220,49010220,49010220,49010220,31401309,Tratamento cirúrgico do hematoma intracraniano
+49010212,49010212,49010212,49010212,31401309,Tratamento cirúrgico do hematoma intracraniano
+49010239,49010239,49010239,49010239,31401309,Tratamento cirúrgico do hematoma intracraniano
+"","","","",31401333,Tratamento pré-natal das hidrocefalias e cistos cerebrais
+"","","","",31401341,Acesso endoscópico ao tratamento cirúrgico dos tumores da região selar
+"","","","",31401350,Implantação de halo para radiocirurgia
+"","",49010727,49010727,31401368,Craniectomia para tumores cerebelares
+49010050,49010050,"","",31401376,Craniotomia exploradora com ou sem biópsia
+"","","","",31401384,Traumatismo cranioencefálico - tratamento cirúrgico 
+"","",49010689,49010689,31401392,Trepanação para propedêutica neurocirúrgica
+"","",49010697,49010697,31401406,Tumores extracranianos - tratamento cirúrgico

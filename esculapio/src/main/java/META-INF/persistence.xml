@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+
+	<persistence-unit name="hospital">
+
+      <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+
+      <non-jta-data-source>java:comp/env/jdbc/hmasp</non-jta-data-source>
+	
+      <class>hospital.model.Beneficiario</class>
+      <class>hospital.model.Contrato</class>
+      <class>hospital.model.Dth</class>
+      <class>hospital.model.Especialidade</class>
+      <class>hospital.model.GuiaEncaminhamento</class>
+      <class>hospital.model.GuiaOcsPm</class>
+      <class>hospital.model.Ocs</class>
+      <class>hospital.model.OcsPm</class>
+      <class>hospital.model.ProcedimentoMedico</class>
+      <class>hospital.model.Profissional</class>
+      <class>hospital.model.Protocolo</class>
+      <class>hospital.model.TipoAcomodacao</class>
+      <class>hospital.model.TipoAtendimento</class>
+      <class>hospital.model.TipoConsulta</class>
+      <class>hospital.model.TipoGuiaConsulta</class>
+      <class>hospital.model.TipoTermo</class>
+      <class>hospital.model.TissTabela</class>
+      <class>hospital.model.TissProcedimento</class>
+
+      <exclude-unlisted-classes>true</exclude-unlisted-classes>
+
+	</persistence-unit>
+
+</persistence>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+	"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<!-- $Id $ -->
+
+<struts>
+
+  <package name="default" extends="struts-default">
+
+    <default-action-ref name="default"/>
+
+    <global-results>
+      <result name="Exception">/jsp/erro.jsp</result>
+    </global-results>
+
+    <global-exception-mappings>
+      <exception-mapping exception="java.lang.Throwable" result="Exception"/>
+    </global-exception-mappings>
+
+    <action name="inicio">
+      <result>/index.jsp</result>
+    </action>
+
+    <action name="default">
+      <result>/jsp/construcao.jsp</result>
+    </action>
+     
+    <action name="contato">
+      <result>/jsp/contato.jsp</result>
+    </action>
+     
+    <action name="beneficiario!*" method="{1}" class="hospital.actions.BeneficiarioAction">
+      <result>/jsp/beneficiario.jsp</result>
+      <result name="input">/jsp/beneficiario.jsp</result>
+      <result name="guias">/jsp/beneficiario-guias.jsp</result>
+    </action>
+
+    <action name="contrato!*" method="{1}" class="hospital.actions.ContratoAction">
+      <result name="input">/jsp/contrato-cadastro.jsp</result>
+      <result name="contratos" type="redirectAction">
+        <param name="actionName">ocs!contratos</param>
+        <param name="ocs.id">${contrato.ocs.id}</param>
+      </result>
+      <result  type="redirectAction">
+        <param name="actionName">ocs!listar</param>
+      </result>
+    </action>
+
+    <action name="dth!*" method="{1}" class="hospital.actions.DthAction">
+      <result>/jsp/dth.jsp</result>
+      <result name="input">/jsp/dth.jsp</result>
+      <result name="compara">/jsp/pm-compara.jsp</result>
+    </action>
+
+    <action name="guia!*" method="{1}" class="hospital.actions.GuiaEncaminhamentoAction">
+      <result name="recibo">/jsp/guia-recibo.jsp</result>
+      <result name="input">/jsp/guia.jsp</result>
+      <result>/jsp/guia.jsp</result>
+    </action>
+
+    <action name="ocs!*" method="{1}" class="hospital.actions.OcsAction">
+      <result>/jsp/ocs.jsp</result>
+      <result name="input">/jsp/ocs-cadastro.jsp</result>
+      <result name="carga">/jsp/ocs-carga-pm.jsp</result>
+      <result name="contratos">/jsp/ocs-contratos.jsp</result>
+      <result name="dth">/jsp/ocs-dth.jsp</result>
+      <result name="pm">/jsp/ocs-pm.jsp</result>
+      <result name="guias">/jsp/ocs-guias.jsp</result>
+    </action>
+
+    <action name="pm!*" method="{1}" class="hospital.actions.ProcedimentoMedicoAction">
+      <result>/jsp/pm.jsp</result>
+      <result name="input">/jsp/pm.jsp</result>
+      <result name="compara">/jsp/pm-compara.jsp</result>
+    </action>
+
+    <action name="profissional!*" method="{1}" class="hospital.actions.ProfissionalAction">
+      <result>/jsp/profissional.jsp</result>
+      <result name="input">/jsp/profissional.jsp</result>
+    </action>
+
+    <action name="protocolo!*" method="{1}" class="hospital.actions.ProtocoloAction">
+      <result>/jsp/protocolo.jsp</result>
+      <result name="input">/jsp/protocolo-cadastro.jsp</result>
+      <result name="guias">/jsp/protocolo-guias.jsp</result>
+    </action>
+
+  </package>
+
+  <include file="struts-admin.xml"/>
+
+</struts>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- $Id -->
+
+<Context path="/hospital">
+
+  
+  <Manager className="org.apache.catalina.session.StandardManager"
+           maxActiveSessions="-1"
+           maxInactiveInterval="1" />
+
+  <ResourceLink name="jdbc/hmasp" global="jdbc/hmasp"/>
+                
+  <WatchedResource>WEB-INF/web.xml</WatchedResource>
+  <WatchedResource>META-INF/context.xml</WatchedResource>
+
+  <Loader loaderClass="org.springframework.instrument.classloading.tomcat.TomcatInstrumentableClassLoader"/>
+
+</Context>

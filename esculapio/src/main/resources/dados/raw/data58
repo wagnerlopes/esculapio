@@ -1,0 +1,91 @@
+21010072,21010072,21010072,21010072,40601048,Necrópsia de adulto/criança e natimorto com suspeita de anomalia genética
+"","",21010250,21010250,40601048,Necrópsia de adulto/criança e natimorto com suspeita de anomalia genética
+21010080,21010080,21010080,21010080,40601056,Necrópsia de embrião / feto até 500 gramas
+"","","","",40601064,Microscopia eletrônica
+"",21010170,21010170,21010170,40601072,Ato de coleta de PAAF de órgãos ou estruturas superficiais - sem deslocamento do patologista
+"",21010161,21010161,21010161,40601072,Ato de coleta de PAAF de órgãos ou estruturas superficiais - sem deslocamento do patologista
+"",21010188,21010188,21010188,40601080,Ato de coleta de PAAF de órgãos ou estruturas profundas sem deslocamento do patologista
+"",21010161,21010161,21010161,40601080,Ato de coleta de PAAF de órgãos ou estruturas profundas sem deslocamento do patologista
+"",21010170,21010269,21010269,40601099,Ato de coleta de PAAF de órgãos ou estruturas superficiais com deslocamento do patologista
+"",21010161,21010161,21010161,40601099,Ato de coleta de PAAF de órgãos ou estruturas superficiais com deslocamento do patologista
+"",21010188,21010188,21010188,40601102,Ato de coleta de PAAF de órgãos ou estruturas profundas com deslocamento do patologista
+"",21010161,21010161,21010161,40601102,Ato de coleta de PAAF de órgãos ou estruturas profundas com deslocamento do patologista
+21010021,21010021,21010021,21010021,40601110,"Procedimento diagnóstico em biópsia simples ""imprint"" e ""cell block"""
+21010048,21010048,21010048,21010048,40601129,Procedimento diagnóstico citopatológico oncótico de líquidos e raspados cutâneos
+21010056,21010056,21010056,21010056,40601137,Procedimento diagnóstico em citopatologia cérvico-vaginal oncótica
+21010064,21010064,21010064,21010064,40601145,Procedimento diagnóstico em citologia hormonal seriado
+21010099,21010099,21010099,21010099,40601153,Procedimento diagnóstico em revisão de lâminas ou cortes histológicos seriados
+21010145,21010145,21010145,21010145,40601161,Procedimento diagnóstico em citologia hormonal isolada
+"","",21010218,21010218,40601170,Procedimento diagnóstico em painel de imunoistoquímica (duas a cinco reações)
+21010153,21010153,21010226,21010226,40601188,Procedimento diagnóstico em reação imunoistoquímica isolada
+"","",21010234,21010234,40601188,Procedimento diagnóstico em reação imunoistoquímica isolada
+"","","","",40601196,"Procedimento diagnóstico em fragmentos múltiplos de biópsias de mesmo órgão ou topografia, acondicionados em um mesmo frasco"
+"","","","",40601200,Procedimento diagnóstico em peça anatômica ou cirúrgica simples
+"","","","",40601218,Procedimento diagnóstico em peça cirúrgica ou anatômica complexa
+"","","","",40601226,"Procedimento diagnóstico em grupos de linfonodos, estruturas vizinhas e margens de peças anatômicas simples ou complexas (por margem) "
+"","","","",40601234,- máximo de três margensProcedimento diagnóstico em amputação de membros sem causa oncológica
+"","","","",40601242,Procedimento diagnóstico em amputação de membros - causa oncológica
+"","","","",40601250,Procedimento diagnóstico em lâminas de PAAF até 5
+21010102,"","","",40601269,Coloração especial por coloração
+"","","","",40601277,Procedimento diagnóstico em imunofluorescência
+"","",21010200,21010200,40601285,"Procedimento diagnóstico em painel de hibridização ""in situ"""
+"","","","",40601293,Procedimento diagnóstico por captura híbrida
+"","","","",40601307,Procedimento diagnóstico em citometria de fluxo (por monoclonal pesquisado)
+"","","","",40601315,Procedimento diagnóstico em citometria de imagens
+21010048,21010048,21010048,21010048,40601323,Procedimento diagnóstico citopatológico em meio líquido
+"","","","",40601331,"Citológico anatomia patológica, qualquer material"
+"","","","",40601340,Citológico em líquido ascítico
+"","","","",40601358,Citológico em líquido pericárdio
+"","","","",40601366,Citológico em líquido sinovial
+"","","","",40601374,Citológico em outros materiais
+"","","","",40601382,DNA citometria fluxo parafina - outros materiais
+"","","","",40601390,Imprint de gânglio
+"","","","",40601404,Imprint de medula óssea
+31010016,31010016,31010016,31010016,40701018,Angiografia radioisotópica
+"","","","",40701026,Cintilografia com hemácias marcadas
+"","","","",40701034,Cintilografia do miocárdio com duplo isótopo (perfusão + viabilidade)
+"","","","",40701042,"Cintilografia do miocárdio com FDG-18 F, em câmara híbrida"
+31010024,31010024,31010024,31010024,40701050,Cintilografia do miocárdio necrose (infarto agudo)
+31010032,"","","",40701069,Cintilografia do miocárdio perfusão - repouso
+31010040,31010040,31010040,31010040,40701069,Cintilografia do miocárdio perfusão - repouso
+31010067,31010067,31010067,31010067,40701077,Cintilografia sincronizada das câmaras cardíacas - esforço
+31010059,31010059,31010059,31010059,40701085,Cintilografia sincronizada das câmaras cardíacas - repouso
+31010075,31010075,31010075,31010075,40701093,Fluxo sanguíneo das extremidades
+31010105,31010105,31010105,31010105,40701107,"Quantificação de ""shunt"" da direita para a esquerda"
+31010113,31010113,31010113,31010113,40701115,"Quantificação de ""shunt"" periférico"
+31010121,31010121,31010121,31010121,40701123,Venografia radioisotópica
+31010040,31010040,31001004,31010040,40701131,Cintilografia do miocárdio perfusão - estresse farmacológico
+31010040,31010040,31001004,31010040,40701140,Cintilografia do miocárdio perfusão - estresse físico
+31020020,31020020,31020020,31020020,40702014,Cintilografia das glândulas salivares com ou sem estímulo
+31020038,31020038,31020038,31020038,40702022,Cintilografia do fígado e do baço
+31020046,31020046,31020046,31020046,40702030,Cintilografia do fígado e vias biliares
+31020127,31020127,31020127,31020127,40702049,Cintilografia para detecção de hemorragia digestória ativa
+31020127,31020127,31020127,31020127,40702057,Cintilografia para detecção de hemorragia digestória não ativa
+31020089,31020089,31020089,31020089,40702065,Cintilografia para determinação do tempo de esvaziamento gástrico
+31020062,31020062,31020062,31020062,40702073,Cintilografia para estudo de trânsito esofágico (líquidos)
+31020070,31020070,31020070,31020070,40702081,Cintilografia para estudo de trânsito esofágico (semi-sólidos)
+31020054,31020054,31020054,31020054,40702090,Cintilografia para pesquisa de divertículo de Meckel
+31020097,31020097,31020097,31020097,40702103,Cintilografia para pesquisa de refluxo gastro-esofágico
+31020100,31020100,31020100,31020100,40702111,Fluxo sanguíneo hepático (qualitativo e quantitativo)
+31020011,31020011,31020011,31020011,40702120,Absorção de gorduras
+31020119,31020119,31020119,31020119,40702138,Perdas proteicas
+"","","","",40703010,Cintilografia da tireóide e/ou captação (iodo - 123)
+31030017,31030017,31030017,31030017,40703029,Cintilografia da tireóide e/ou captação (iodo - 131)
+31030025,31030025,31030025,31030025,40703037,Cintilografia da tireóide e/ou captação (tecnécio - 99m TC)
+"",31030076,31030076,31030076,40703045,Cintilografia das paratireóides
+31030033,31030033,31030033,31030033,40703053,Cintilografia de corpo inteiro para pesquisa de metástases (PCI)
+31030041,31030041,31030041,31030041,40703061,Teste de estímulo com TSH recombinante
+31030050,31030050,31030050,31030050,40703070,Teste de supressão da tireóide com T3
+31030068,31030068,31030068,31030068,40703088,Teste do perclorato
+31040071,31040071,31040071,31040071,40704017,Cintilografia renal dinâmica
+31040080,31040080,31040080,31040080,40704025,Cintilografia renal dinâmica com diurético
+31040012,31040012,31040012,31040012,40704033,Cintilografia renal estática (quantitativa ou qualitativa)
+31040047,31040047,31040047,31040047,40704041,Cintilografia testicular (escrotal)
+31040020,31040020,31040020,31040020,40704050,Cistocintilografia direta
+31040039,31040039,31040039,31040039,40704068,Cistocintilografia indireta
+31040063,31040063,31040063,31040063,40704076,Determinação da filtração glomerular
+31040055,31040055,31040055,31040055,40704084,Determinação do fluxo plasmático renal
+31040098,31040098,31040098,31040098,40704092,Renograma
+31050026,31050026,31050026,31050026,40705013,Cintilografia do sistema retículo-endotelial (medula óssea)
+31050077,31050077,31050077,31050077,40705021,Demonstração do seqüestro de hemácias pelo baço
+31050069,31050069,31050069,31050069,40705030,Determinação da sobrevida de hemácias

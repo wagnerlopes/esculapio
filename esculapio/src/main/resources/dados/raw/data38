@@ -1,0 +1,91 @@
+"",22010203,22010203,22010203,40103196,EEGQ quantitativo (mapeamento cerebral)
+"",22010190,22010190,22010190,40103196,EEGQ quantitativo (mapeamento cerebral)
+"",22010157,"","",40103200,"Eletrencefalograma especial: terapia intensiva, morte encefálica, EEG prolongado (até 2 horas)"
+22010041,22010041,22010041,22010041,40103200,"Eletrencefalograma especial: terapia intensiva, morte encefálica, EEG prolongado (até 2 horas)"
+"","","","",40103234,"Eletrencefalograma em vigília, e sono espontâneo ou induzido"
+22010017,22010017,22010017,22010017,40103234,"Eletrencefalograma em vigília, e sono espontâneo ou induzido"
+22010025,22010025,22010017,22010017,40103234,"Eletrencefalograma em vigília, e sono espontâneo ou induzido"
+22010050,22010050,22010017,22010017,40103234,"Eletrencefalograma em vigília, e sono espontâneo ou induzido"
+50010077,50010077,50010077,50010077,40103242,Eletro-oculografia - monocular
+"","",22010246,22010246,40103250,Eletro-retinografia - monocular
+50010069,50010069,50010069,50010069,40103250,Eletro-retinografia - monocular
+51010089,51010089,51010089,51010089,40103269,Eletrococleografia (Ecochg)
+"","",22010254,22010254,40103269,Eletrococleografia (Ecochg)
+"","",22010300,22020012,40103277,Eletrocorticografia intra-operatória (ECOG) - por hora de monitorização
+"","",51010470,51010470,40103285,Eletroglotografia
+"","","","",40103307,Eletroneuromiografia (velocidade de condução) testes de estímulos para paralisia facial
+"","",25010123,25010123,40103307,Eletroneuromiografia (velocidade de condução) testes de estímulos para paralisia facial
+22010130,22010130,22010130,22010130,40103307,Eletroneuromiografia (velocidade de condução) testes de estímulos para paralisia facial
+51010097,51010097,51010097,51010097,40103307,Eletroneuromiografia (velocidade de condução) testes de estímulos para paralisia facial
+22010130,22010130,22010130,22010130,40103315,Eletroneuromiografia de MMII
+25010077,25010077,25010077,25010077,40103315,Eletroneuromiografia de MMII
+"","",25010123,25010123,40103315,Eletroneuromiografia de MMII
+22010130,22010130,22010130,22010130,40103323,Eletroneuromiografia de MMSS
+25010077,25010077,25010077,25010077,40103323,Eletroneuromiografia de MMSS
+"","",25010123,25010123,40103323,Eletroneuromiografia de MMSS
+"","","","",40103331,Eletroneuromiografia de MMSS e MMII
+22010130,22010130,22010130,22010130,40103331,Eletroneuromiografia de MMSS e MMII
+25010077,25010077,25010077,25010077,40103331,Eletroneuromiografia de MMSS e MMII
+"","",25010123,25010123,40103331,Eletroneuromiografia de MMSS e MMII
+"","","","",40103340,Eletroneuromiografia de segmento complementar
+"","","","",40103358,Eletroneuromiografia de segmento especial
+"","","","",40103366,Eletroneuromiografia genitoperineal
+"","",22010211,22010211,40103374,EMG com registro de movimento involuntário (teste dinâmico de escrita; estudo funcional de tremores)
+"","",22010211,22010211,40103382,EMG para monitoração de quimodenervação (por sessão)
+"","",22010211,22010211,40103390,EMG quantitativa ou EMG de fibra única
+"","",51010488,51010488,40103404,Espectrografia vocal
+51010119,51010119,51010119,51010119,40103412,Gustometria
+51010208,51010208,51010208,51010208,40103420,Imitanciometria de alta frequência
+51010127,51010127,51010127,51010127,40103439,Impedanciometria
+51010135,51010135,51010135,51010135,40103447,Método de Proetz (por sessão)
+"","",51010399,51010399,40103455,Otoemissões acústicas produto de distorção
+"","",51010399,51010399,40103463,Otoemissões evocadas transientes
+"","","","",40103471,Perimetria com scanning laser ophthalmoscope - monocular
+51010186,51010186,51010186,51010186,40103480,Pesquisa de pares cranianos relacionados com o VIII PAR
+51010194,51010194,51010194,51010194,40103498,Potencial evocado auditivo de tronco cerebral (PEA-TC)
+51010305,51010305,51010305,51010305,40103501,Pesquisa do fenômeno de Tullio
+"","",22010270,22020039,40103510,Poligrafia de recém-nascido (maior ou igual 2 horas) (PG/RN)
+"","","","",40103528,Polissonografia de noite inteira (PSG) (inclui polissonogramas)
+"",22010149,22010149,22020047,40103528,Polissonografia de noite inteira (PSG) (inclui polissonogramas)
+"",29020190,29020190,29020190,40103528,Polissonografia de noite inteira (PSG) (inclui polissonogramas)
+"","","","",40103536,Polissonograma com EEG de noite inteira
+"","","","",40103544,Polissonograma com teste de CPAP nasal
+"","","","",40103552,Posturografia
+"",22010181,22010181,22010181,40103560,Potencial evocado - P300
+"","",22010190,22010190,40103560,Potencial evocado - P300
+22010114,22010114,22010114,22010114,40103579,Potencial evocado auditivo de média latência (PEA-ML) bilateral
+25010085,25010085,25010085,25010085,40103579,Potencial evocado auditivo de média latência (PEA-ML) bilateral
+22010122,22010122,22010122,22010122,40103587,Potencial somato-sensitivo para localização funcional da área central (monitorização por hora) até 3 horas
+"",25010093,25010093,25010093,40103587,Potencial somato-sensitivo para localização funcional da área central (monitorização por hora) até 3 horas
+"",22010165,"","",40103587,Potencial somato-sensitivo para localização funcional da área central (monitorização por hora) até 3 horas
+"",22010173,22010173,22010173,40103595,Potencial evocado gênito-cortical (PEGC)
+"","",22010220,22010220,40103609,Potencial evocado motor - PEM (bilateral)
+"","",25010158,25010158,40103609,Potencial evocado motor - PEM (bilateral)
+22010122,22010165,22010122,22010122,40103617,Potencial evocado somato-sensitivo - membros inferiores (PESS)
+"",25010093,25010093,25010093,40103617,Potencial evocado somato-sensitivo - membros inferiores (PESS)
+22010122,22010122,22010122,22010122,40103625,Potencial evocado somato-sensitivo - membros superiores (PESS)
+"",25010093,25010093,25010093,40103625,Potencial evocado somato-sensitivo - membros superiores (PESS)
+50010115,50010115,50010115,50010115,40103633,Potencial evocado visual (PEV)
+22010106,22010106,22010106,22010106,40103633,Potencial evocado visual (PEV)
+"",25010107,25010107,25010107,40103633,Potencial evocado visual (PEV)
+"","","","",40103641,Provas de função tubária
+51010321,"","","",40103650,Registro do nistagmo pendular
+"","",51010402,51010402,40103668,Rinomanometria computadorizada
+51010208,51010208,51010208,51010208,40103668,Rinomanometria computadorizada
+"","","","",40103676,Rinometria acústica
+"","","","",40103684,Reflexo cutâneo-simpático
+"","","","",40103714,Teste de estimulação repetitiva (um ou mais músculos)
+"","","","",40103722,Teste de fístula perilinfática com eletronistagmografia
+"","",22010262,22010262,40103730,Teste de latências múltiplas de sono (TLMS) diurno pós PSG
+51010283,51010283,51010283,51010283,40103749,Vectoeletronistagmografia - computadorizada
+"","",22010289,22020055,40103757,Vídeo-eletrencefalografia contínua não invasiva - 12 horas (vídeo EEG/NT)
+"","","","",40103765,Videonistagmografia infravermelha
+"",51010372,51010372,"",40103781,Audiometria ocupacional ou de seleção
+"","","","",40103790,Audiometrias de altas frequências
+"","","","",40103803,Avaliação da função auditiva central
+25010034,25010034,25010034,25010034,40103811,Eletrodiagnóstico
+51010313,"","","",40103820,Pesquisa do nistagmo optocinético
+51010151,"","","",40103838,Prova de Doerfler-Stewart
+51010178,"","","",40103846,Prova de Stenger
+"","","","",40103854,Teste de Fowler
+"","",25010131,25010131,40104010,Avaliação muscular por dinamometria computadorizada (isocinética) - por articulação

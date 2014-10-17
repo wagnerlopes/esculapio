@@ -1,0 +1,90 @@
+00010014,00010014,00010014,00010014,10101012,Em consultório (no horário normal ou preestabelecido)
+00010022,"","","",10101020,Em domicílio
+"","","",00010065,10101039,Em pronto socorro
+00020010,00020010,00020010,00020010,10102019,Visita hospitalar (paciente internado)
+00030015,00030015,00030015,00030015,10103015,Atendimento ao recém-nascido em berçário
+00030031,00030031,00030031,00030031,10103023,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco)
+00030023,"","","",10103023,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco)
+"","","","",10103031,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de alto risco)
+"","",14010062,14010062,10104011,Atendimento do intensivista diarista (por dia e por paciente)
+00040010,00040010,14010011,14010011,10104020,Atendimento médico do intensivista em UTI geral ou pediátrica (plantão de 12 horas - por paciente)
+00040029,00040029,14010020,14010020,10104020,Atendimento médico do intensivista em UTI geral ou pediátrica (plantão de 12 horas - por paciente)
+"","","","",10105034,"Transporte extra-hospitalar terrestre de pacientes graves, 1ª hora - a partir do deslocamento do médico"
+"","","","",10105042,"Transporte extra-hospitalar terrestre de pacientes graves, por hora adicional - até o retorno do médico à base"
+"","","","",10105050,"Transporte extra-hospitalar aéreo ou aquático de pacientes graves, 1ª hora - a partir do deslocamento do médico"
+"","","","",10105069,"Transporte extra-hospitalar aéreo ou aquático de pacientes graves, por hora adicional"
+"","","","",10105077,"Acompanhamento médico para transporte intra-hospitalar de pacientes graves, com ventilação assistida, da UTI para o centro de diagnósitco"
+26010011,26010011,26010011,26010011,10106014,Aconselhamento genético
+"","","","",10106030,Atendimento ao familiar do adolescente
+"","","","",10106049,Atendimento pediátrico a gestantes (3º trimestre)
+"","","","",10106065,Exame de aptidão física e mental para fins de inscrição ou renovação de CNH (Carteira Nacional de Habilitação)
+"","","","",10106073,Junta Médica (três ou mais profissionais) - destina-se ao esclarecimento diagnóstico ou decisão de conduta em caso de difícil solução - por 
+"","","","",10106090,"profissionalJunta Médica - pagamento de honorários médicos referente a 3ª opinião, conforme resolução Consu nº 8"
+"","","","",10106103,Perícia médica
+15030040,15030040,15030040,15030040,20101015,Acompanhamento clínico ambulatorial pós-transplante renal - por avaliação
+"","","","",20101023,Análise da proporcionalidade cineantropométrica
+"","",17010071,17010071,20101074,Avaliação nutricional (inclui consulta)
+"","","","",20101082,Avaliação nutricional pré e pós-cirurgia bariátrica (inclui consulta)
+"","","","",20101090,Avaliação da composição corporal por antropometria (inclui consulta)
+"","","","",20101104,Avaliação da composição corporal por bioimpedanciometria
+"","","","",20101112,Avaliação da composição corporal por pesagem hidrostática
+"","","","",20101120,Controle anti-doping (por período de 2 horas) - durante competições
+"","","","",20101139,Controle anti-doping (por período de 2 horas) - fora de competições
+"","","","",20101155,Prestação de serviços em delegações ou competições esportivas
+39020053,39020053,39020053,39020053,20101163,Pulsoterapia (por sessão)
+15030024,15030024,15030024,15030024,20101171,Rejeição de enxerto renal - tratamento ambulatorial - avaliação clínica diária
+50010140,50010140,50010140,50010140,20101198,Teste e adaptação de lente de contato (sessão) - binocular
+"","","","",20101201,Avaliação clínica e eletrônica de paciente portador de marca-passo ou sincronizador ou desfibrilador
+20010052,20010052,20010052,20010052,20102011,Holter de 24 horas - 2 ou mais canais - analógico
+"","","","",20102020,Holter de 24 horas - 3 canais - digital
+"",20020058,"","",20102038,Monitorização ambulatorial da pressão arterial - MAPA (24 horas)
+"","",20010249,20010249,20102038,Monitorização ambulatorial da pressão arterial - MAPA (24 horas)
+"","","",15020150,20102038,Monitorização ambulatorial da pressão arterial - MAPA (24 horas)
+"","","","",20102062,Monitor de eventos sintomáticos por 15 a 30 dias (LOOPER)
+"","","","",20102070,Tilt teste
+20010087,"","","",20102089,Sistema Holter - 12 horas - 1 canal
+20010079,20010079,"","",20102097,Sistema Holter - 12 horas - 2 ou mais canais
+20010060,"","","",20102100,Sistema Holter - 24 horas - 1 canal
+20010044,20010044,"","",20102111,Monitorização eletrocardiográfica programada com transcrição - não contínua
+"","","","",20103018,Adaptação e treinamento de recursos ópticos para visão subnormal (por sessão) - binocular
+25060023,25060023,25050079,25050079,20103026,Amputação bilateral (preparação do coto)
+25060163,25060163,25050214,25050214,20103034,Amputação bilateral (treinamento protético)
+25060015,25060015,25050060,25050060,20103042,Amputação unilateral (preparação do coto)
+25060155,25060155,25050206,25050206,20103050,Amputação unilateral (treinamento protético)
+25040030,25040030,25040030,25040030,20103069,Assistência fisiátrica respiratória em pré e pós-operatório de condições cirúrgicas
+25020013,25020013,25020013,25020013,20103077,Ataxias
+"","","","",20103093,Atendimento fisiátrico no pré e pós-operatório de pacientes para prevenção de seqüelas
+25090011,25090011,25090011,25090011,20103093,Atendimento fisiátrico no pré e pós-operatório de pacientes para prevenção de seqüelas
+25100033,25100033,25100033,25100033,20103107,Atendimento fisiátrico no pré e pós-parto
+"",25090070,25090070,25090070,20103115,Atividade reflexa ou aplicação de técnica cinesioterápica específica
+"","","","",20103123,Atividades em escola de postura (máximo de 10 pessoas) - por sessão
+"",25010115,25010115,25010115,20103131,Biofeedback com EMG
+"",25090046,25090046,25090046,20103140,"Bloqueio fenólico, alcoólico ou com toxina botulínica (de pontos motores) - por membro ou segmento corporal"
+"","","","",20103140,"Bloqueio fenólico, alcoólico ou com toxina botulínica (de pontos motores) - por membro ou segmento corporal"
+"","","","",20103158,Confecção de órteses em material termo-sensível (por unidade)
+25090020,25090020,25090020,25090020,20103166,Confecção de prótese imediata
+25090038,25090038,25090038,25090038,20103174,Confecção de prótese provisória
+25060040,25060040,25050095,25050095,20103182,Desvios posturais da coluna vertebral
+"","",25020161,25020161,20103190,Disfunção vésico-uretral
+25020021,25020021,25020021,25020021,20103204,Distrofia simpático-reflexa
+25030019,25030019,25070070,25070070,20103212,Distúrbios circulatórios artério-venosos e linfáticos
+25040049,25040049,25040049,25040049,20103220,Doenças pulmonares atendidas em ambulatório
+50020030,50020030,50020030,50020030,20103239,Exercícios de ortóptica (por sessão)
+19010036,19010036,19010036,19010036,20103247,Exercícios para reabilitação do asmático (ERAC) - por sessão coletiva
+19010028,19010028,19010028,19010028,20103255,Exercícios para reabilitação do asmático (ERAI) - por sessão individual
+25020030,25020030,25020030,25020030,20103263,Hemiparesia
+25020030,25020030,25020030,25020030,20103271,Hemiplegia
+"","","","",20103280,Hemiplegia e hemiparesia com afasia
+25060198,25060198,25050249,25050249,20103298,Hipo ou agenesia de membros
+"",25090062,25090062,25090062,20103301,Infiltração de ponto gatilho (por músculo) ou agulhamento seco (por músculo)
+"","","",16010183,20103301,Infiltração de ponto gatilho (por músculo) ou agulhamento seco (por músculo)
+25020048,25020048,25020048,25020048,20103310,Lesão nervosa periférica afetando mais de um nervo com alterações sensitivas e/ou motoras
+25020056,25020056,25020056,25020056,20103328,Lesão nervosa periférica afetando um nervo com alterações sensitivas e/ou motoras
+"","","","",20103336,Manipulação vertebral
+25020064,25020064,25020064,25020064,20103344,Miopatias
+25040057,25040057,25040057,25040057,20103360,Paciente com D.P.O.C. em atendimento ambulatorial necessitando reeducação e reabilitação respiratória
+"","","","",20103379,"Paciente em pós-operatório de cirurgia cardíaca, atendido em ambulatório, duas a três vezes por semana"
+25070045,25070045,25070045,25070045,20103379,"Paciente em pós-operatório de cirurgia cardíaca, atendido em ambulatório, duas a três vezes por semana"
+25070029,25070029,25070029,25070029,20103387,"Pacientes com doença isquêmica do coração, atendido em ambulatório de 8 a 24 semanas"
+25070053,25070053,"","",20103387,"Pacientes com doença isquêmica do coração, atendido em ambulatório de 8 a 24 semanas"
+25070010,25070010,25070010,25070010,20103395,"Pacientes com doença isquêmica do coração, atendido em ambulatório, até 8 semanas de programa"

@@ -1,0 +1,91 @@
+32090153,32090153,32090153,32090153,40809080,Dacriocistografia
+"","","","",40809099,"Punção biópsia/aspirativa de órgão ou estrutura orientada por RX, US ou CT (acrescentar o exame base)"
+32130040,32130040,32130040,32130040,40809099,"Punção biópsia/aspirativa de órgão ou estrutura orientada por RX, US ou CT (acrescentar o exame base)"
+32130384,32130384,"","",40809099,"Punção biópsia/aspirativa de órgão ou estrutura orientada por RX, US ou CT (acrescentar o exame base)"
+32130392,32130392,"","",40809099,"Punção biópsia/aspirativa de órgão ou estrutura orientada por RX, US ou CT (acrescentar o exame base)"
+56030037,56030037,56030037,56030037,40809099,"Punção biópsia/aspirativa de órgão ou estrutura orientada por RX, US ou CT (acrescentar o exame base)"
+"","","","",40809102,Drenagem percutânea orientada por RX (acrescentar o exame de base)
+55040012,55040012,"","",40809110,Broncografia (por punção ou entubação traqueal)
+32090013,32090013,32090013,32090013,40809129,Broncografia unilateral
+32090048,32090048,"","",40809137,Pneumoperitônio (RX)
+16020111,16020111,16020111,16020111,40810011,Mielografia segmentar (por segmento)
+32100094,32100094,32100094,32100094,40810011,Mielografia segmentar (por segmento)
+32100108,32100108,32100108,32100108,40810011,Mielografia segmentar (por segmento)
+32100116,32100116,32100116,32100116,40810011,Mielografia segmentar (por segmento)
+"",32100167,32100167,32100167,40810020,Teste de oclusão de artéria carótida ou vertebral
+"","","","",40810038,Colheita seletiva de sangue para dosagem hormonal
+"","","","",40810046,Avaliação hemodinâmica por cateterismo (aferimento de pressão ou fluxo arterial ou venoso)
+"","","","",40811018,Radioscopia diagnóstica
+32110022,32110022,32110022,32110022,40811026,Radioscopia para acompanhamento de procedimento cirúrgico (por hora ou fração)
+39120023,39120023,39120023,39120023,40812014,Aortografia abdominal por punção translombar
+32120028,32120028,32120028,32120028,40812014,Aortografia abdominal por punção translombar
+32100019,32100019,32100019,32100019,40812022,Angiografia por punção
+32100035,32100035,32100035,32100035,40812022,Angiografia por punção
+"",39120112,39120112,39120112,40812022,Angiografia por punção
+"",39120120,39120120,39120120,40812022,Angiografia por punção
+"",40080340,"","",40812022,Angiografia por punção
+"",40080358,"","",40812022,Angiografia por punção
+"",40080366,"","",40812022,Angiografia por punção
+"",40080374,"","",40812022,Angiografia por punção
+"",40080382,"","",40812022,Angiografia por punção
+32120036,32120036,32120036,32120036,40812022,Angiografia por punção
+32120010,32120010,32120010,32120010,40812030,Angiografia por cateterismo não seletivo de grande vaso
+32120133,"","","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+32120141,32120141,32120141,32120141,40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",39120015,39120015,39120015,40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",40080340,"","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",40080358,"","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",40080366,"","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",40080374,"","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+"",40080382,"","",40812030,Angiografia por cateterismo não seletivo de grande vaso
+32100051,32100051,32100051,32100051,40812030,Angiografia por cateterismo não seletivo de grande vaso
+32100019,32100019,32100019,32100019,40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+32100035,32100035,32100035,32100035,40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+32120133,"","","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+32120141,32120141,32120141,32120141,40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",32100159,32100159,32100159,40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",40080340,"","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",40080358,"","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",40080366,"","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",40080374,"","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",40080382,"","",40812049,Angiografia por cateterismo seletivo de ramo primário - por vaso
+"",32100159,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+32120133,"","","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+32120141,32120141,32120141,32120141,40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"",40080340,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"",40080358,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"",40080366,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"",40080374,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"",40080382,"","",40812057,Angiografia por cateterismo superseletivo de ramo secundário ou distal - por vaso
+"","","","",40812065,Angiografia transoperatória de posicionamento
+"","","","",40812073,Angiografia pós-operatória de controle
+"","","","",40812073,Angiografia pós-operatória de controle
+"","","","",40812073,Angiografia pós-operatória de controle
+"",39120058,39120058,39120058,40812081,Flebografia por punção venosa unilateral
+32120052,32120052,32120052,32120052,40812081,Flebografia por punção venosa unilateral
+"",39120074,39120074,39120074,40812090,Flebografia retrógrada por cateterismo - unilateral
+32120095,32120095,32120095,32120095,40812090,Flebografia retrógrada por cateterismo - unilateral
+32120087,32120087,32120087,32120087,40812103,Portografia trans-hepática
+32120060,32120060,32120060,32120060,40812111,Esplenoportografia percutânea
+32120079,32120079,32120079,32120079,40812120,Linfangioadenografia unilateral
+"",39120066,39120066,39120066,40812120,Linfangioadenografia unilateral
+32120109,32120109,32120109,32120109,40812138,Cavernosografia
+"",39120104,39120104,39120104,40812138,Cavernosografia
+"",39120082,39120082,39120082,40812138,Cavernosografia
+32120117,32120117,32120117,32120117,40812146,Fármaco-cavernosografia (dinâmica)
+"",39120090,39120090,39120090,40812146,Fármaco-cavernosografia (dinâmica)
+"","","","",40813010,Ablação percutânea de tumor torácico (qualquer método)
+"","","","",40813029,Ablação percutânea de tumor hepático (qualquer método)
+"",32130422,32130422,32130422,40813037,Ablação percutânea de tumor ósseo (qualquer método)
+"","",32130660,32130660,40813045,Ablação percutânea de tumor (qualquer método)
+"",32130473,32130473,32130473,40813053,Alcoolização percutânea de angioma
+"","","","",40813061,Angioplastia de ramo intracraniano
+"","",32130511,32130511,40813070,Angioplastia de tronco supra-aórtico
+"","","","",40813088,Angioplastia de aorta para tratamento de coarctação
+"","","","",40813100,Angioplastia de artéria visceral - por vaso
+"","","","",40813118,Angioplastia arterial ou venosa de anastomose vascular de fígado transplantado
+"","","","",40813126,Angioplastia renal para tratamento de hipertensão renovascular ou outra condição
+"","","","",40813134,Angioplastia arterial ou venosa de anastomose vascular de rim transplantado
+"","","","",40813142,Angioplastia de ramos hipogástricos para tratamento de impotência
+"","","","",40813150,Angioplastia de tronco venoso
+"","","","",40813169,Angioplastia venosa para tratamento de síndrome de BUDD-CHIARI

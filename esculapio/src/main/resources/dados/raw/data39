@@ -1,0 +1,91 @@
+25010018,25010018,25010018,25010018,40104028,Cronaximetria
+25010026,25010026,25010026,25010026,40104036,Curva  I/T - medida de latência de nervo periférico
+25010050,25010050,25010050,25010050,40104044,"Ergotonometria músculo-esquelético (tetra, paraparesia e hemiparesia)"
+"","",25010140,25010140,40104125,Sistema tridimensional de avaliação do movimento que inclui vídeo acoplado à plataforma da força e eletromiografia
+"",29020042,29020042,29020042,40105016,Determinação das pressões respiratórias máximas
+"",29020034,29020034,29020034,40105016,Determinação das pressões respiratórias máximas
+"","","","",40105016,Determinação das pressões respiratórias máximas
+29010047,"","","",40105024,Determinação dos volumes pulmonares por diluição de gases
+29010047,"","","",40105032,Determinação dos volumes pulmonares por pletismografia
+"",29020123,29020123,29020123,40105040,Medida da difusão do monóxido de carbono
+"",29020131,29020131,29020131,40105059,Medida de pico de fluxo expiratório
+"",29020026,29020026,29020026,40105059,Medida de pico de fluxo expiratório
+"","","","",40105067,Medida seriada por 3 semanas do pico de fluxo expiratório
+"",29020140,29020140,29020140,40105067,Medida seriada por 3 semanas do pico de fluxo expiratório
+29010160,29020271,29020271,29020271,40105075,Prova de função pulmonar completa (ou espirometria)
+"","",19010290,19010290,40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020050,29020050,29020050,40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020077,"","",40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020085,"","",40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020069,29020069,29020069,40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020212,"","",40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020204,29020204,29020204,40105075,Prova de função pulmonar completa (ou espirometria)
+"",29020255,29020255,29020255,40105083,Resistência das vias aéreas por oscilometria
+39010040,39010040,39010040,39010040,40105083,Resistência das vias aéreas por oscilometria
+"",29020255,29020255,29020255,40105091,Resistência das vias aéreas por pletismografia
+"","","","",40105105,Espirografia Simples - capacidade vital lenta
+"",29020220,29020220,29020220,40105113,Regulação ventilatória - 1) medida de ventilação e do padrão ventilatório
+"",29020239,29020239,29020239,40105121,Regulação ventilatória - 2) determinação da pressão de oclusão
+"",29020247,29020247,29020247,40105130,Regulação ventilatória - 3) resposta a hipoxia e hipercapnia
+"","",45010161,45010161,40201015,Amnioscopia
+45010021,45010021,45010021,45010021,40201023,Anuscopia (interna e externa)
+24030015,24030015,"","",40201031,Broncoscopia com biópsia transbrônquica
+"",24030074,"","",40201031,Broncoscopia com biópsia transbrônquica
+24030040,24030040,24040029,24040029,40201031,Broncoscopia com biópsia transbrônquica
+24030015,24030015,"","",40201058,Broncoscopia com ou sem aspirado ou lavado brônquico bilateral
+"",24030074,"","",40201058,Broncoscopia com ou sem aspirado ou lavado brônquico bilateral
+"",24030090,24040010,24040010,40201058,Broncoscopia com ou sem aspirado ou lavado brônquico bilateral
+56010036,56010036,56010036,56010036,40201066,Cistoscopia e/ou uretroscopia
+23010010,23010010,23010010,23010010,40201074,Colangiopancreatografia retrógrada endoscópica
+23010029,23010029,23010029,23010029,40201082,Colonoscopia (inclui a retossigmoidoscopia)
+"","",57010013,57010013,40201082,Colonoscopia (inclui a retossigmoidoscopia)
+"","","","",40201090,Colonoscopia com magnificação
+"","","","",40201104,Ecoendoscopia alta
+33010080,33010080,33010080,33010080,40201104,Ecoendoscopia alta
+"","","","",40201112,Ecoendoscopia baixa
+33010080,33010080,33010080,33010080,40201112,Ecoendoscopia baixa
+23010037,23010037,23010037,23010037,40201120,Endoscopia digestiva alta
+"","","","",40201139,Endoscopia digestiva alta com magnificação
+"","","","",40201147,Enteroscopia
+"",45010137,45010137,45010137,40201155,Histeroscopia diagnóstica
+23010045,23010045,23010045,23010045,40201163,Laparoscopia
+"","",56090234,56090234,40201163,Laparoscopia
+23010061,23010061,23010061,23010061,40201171,Retossigmoidoscopia flexível
+"","",57010064,57010064,40201171,Retossigmoidoscopia flexível
+"",43040217,43040217,43040217,40201171,Retossigmoidoscopia flexível
+23010053,23010053,23010053,23010053,40201180,Retossigmoidoscopia rígida
+"","",57010048,57010048,40201180,Retossigmoidoscopia rígida
+"",43040217,43040217,43040217,40201180,Retossigmoidoscopia rígida
+"","",51010429,51010429,40201198,Vídeo-endoscopia do esfíncter velo-palatino com ótica flexível
+"","",51010437,51010437,40201198,Vídeo-endoscopia do esfíncter velo-palatino com ótica flexível
+"","",51010429,51010429,40201201,Vídeo-endoscopia do esfíncter velo-palatino com ótica rígida
+"","",51010437,51010437,40201201,Vídeo-endoscopia do esfíncter velo-palatino com ótica rígida
+"","",51010410,51010410,40201210,Vídeo-endoscopia naso-sinusal com ótica flexível
+"","",51010410,51010410,40201228,Vídeo-endoscopia naso-sinusal com ótica rígida
+"","",51010461,51010461,40201236,Vídeo-laringo-estroboscopia com endoscópio flexível
+"","",51010461,51010461,40201244,Vídeo-laringo-estroboscopia com endoscópio rígido
+"","",51010453,51010453,40201252,Vídeo-faringo-laringoscopia com endoscópio flexível
+"","",51010445,51010445,40201252,Vídeo-faringo-laringoscopia com endoscópio flexível
+"","",51010453,51010453,40201260,Vídeo-faringo-laringoscopia com endoscópio rígido
+"","",51010445,51010445,40201260,Vídeo-faringo-laringoscopia com endoscópio rígido
+"","",56040784,56040784,40201279,Ureteroscopia flexível unilateral
+56010117,56010117,"","",40201279,Ureteroscopia flexível unilateral
+"","",56040784,56040784,40201287,Ureteroscopia rígida unilateral
+56010117,56010117,"","",40201287,Ureteroscopia rígida unilateral
+"","","","",40201309,Avaliação endoscópica da deglutição (FEES)
+"","","","",40201317,Medida de pressão de varizes de esôfago endoscópica
+"","","","",40201325,Videoquimografia laríngea
+"","","","",40201333,Endoscopia digestiva alta com cromoscopia
+"","","","",40202011,Aritenoidectomia microcirúrgica endoscópica
+23020148,23020148,23020148,23020148,40202038,Endoscopia digestiva alta com biópsia e/ou citologia
+23020199,23020199,23020199,23020199,40202046,Biópsias por laparoscopia
+"","","","",40202054,Broncoscopia com biópsia transbrônquica com acompanhamento radioscópico
+"","","","",40202062,Cecostomia
+"","","","",40202070,Cistoenterostomia com colocação de prótese ou dreno
+"","","","",40202089,Colagem de fístula por via endoscópica
+"","",24050016,24050016,40202097,Colocação de cânula sob orientação endoscópica
+"","",24050024,24050024,40202100,Colocação de cateter para braquiterapia endobrônquica
+23020016,23020016,23020016,23020016,40202119,Colocação de prótese coledociana por via endoscópica
+"","",24050032,24050032,40202127,Colocação de prótese traqueal ou brônquica
+"","","","",40202135,Colonoscopia com magnificação e tatuagem
+"",23020229,23020229,23020229,40202143,Descompressão colônica por colonoscopia

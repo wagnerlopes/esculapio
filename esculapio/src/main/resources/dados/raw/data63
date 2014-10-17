@@ -1,0 +1,91 @@
+"",39130053,39130053,39130053,40813819,Embolização de tumor não especificado
+"","","","",40813827,Traqueotomia percutânea orientada por RX ou TC
+"","",32130538,32130538,40813835,Gastrostomia percutânea orientada por RX ou TC
+"","",32130546,32130546,40813843,"Colecistostomia percutânea orientada por RX, US ou TC"
+"","","","",40813851,Esclerose percutânea de cisto pancreático
+"","","","",40813860,Celostomia percutânea orientada por RX ou TC
+32130180,32130180,32130180,32130180,40813878,"Nefrostomia percutânea orientada por RX, US, TC ou RM"
+"",56030363,56030363,56030363,40813878,"Nefrostomia percutânea orientada por RX, US, TC ou RM"
+32130171,32130171,"","",40813886,"Pielografia percutânea orientada por RX, US, TC ou RM"
+"",32130430,32130430,32130430,40813894,"Exérese percutânea de tumor benigno orientada por RX, US, TC ou RM"
+"","","","",40813908,Quimioterapia por cateter de tumor de cabeça e pescoço
+"",32130422,32130422,32130422,40813916,Quimioembolização para tratamento de tumor hepático
+32130031,32130031,"","",40813924,Quimioterapia por cateter intra-arterial
+32130163,32130163,"","",40813924,Quimioterapia por cateter intra-arterial
+"","",32130554,32130554,40813924,Quimioterapia por cateter intra-arterial
+"",39130010,3913001,39130010,40813924,Quimioterapia por cateter intra-arterial
+"","",39130053,39130053,40813924,Quimioterapia por cateter intra-arterial
+"",39130061,39130061,39130061,40813924,Quimioterapia por cateter intra-arterial
+"","",32130708,32130708,40813932,TIPS - anastomose porto-cava percutânea para tratamento de hipertensão portal
+"","","","",40813940,Implante de endoprótese em aneurisma de aorta abdominal ou torácica com stent revestido (stent-graft)
+"","","","",40813959,Implante de endoprótese em dissecção de aorta abdominal ou torácica com stent revestido (stent-graft)
+"","","","",40813967,Tratamento de pseudoaneurisma por compressão com US-Doppler
+"","",32130694,32130694,40813975,Tratamento do vasoespasmo pós-trauma
+"","","","",40813983,Trombectomia mecânica para tratamento de TEP
+39030059,39030059,39030059,39030059,40813991,Trombectomia mecânica venosa
+"","","","",40814017,Trombectomia medicamentosa para tratamento de TEP
+"","","","",40814025,Trombólise medicamentosa arterial ou venosa - por vaso
+"","","","",40814033,Trombólise medicamentosa arterial ou venosa para tratamento de isquemia mesentérica
+32130287,32130287,32130287,32130287,40814041,Trombólise medicamentosa em troncos supra-aórticos e intracranianos
+"","","","",40814050,Repermeabilização tubária para tratamento de infertilidade
+32130112,32130112,32130112,32130112,40814068,"Retirada percutânea de cálculos biliares orientada por RX, US ou TC"
+32130252,32130252,32130252,32130252,40814076,"Retirada percutânea de cálculos renais orientada por RX, US ou TC"
+32130279,32130279,32130279,32130279,40814084,Retirada percutânea de corpo estranho intravascular
+"",39130088,39130088,39130088,40814084,Retirada percutânea de corpo estranho intravascular
+"","",32130678,32130678,40814092,Osteoplastia ou discectomia percutânea (vertebroplastia e outras)
+"","","","",40814106,Discografia
+"","","","",40814114,Litotripsia mecânica de cálculos renais orientada por RX ou US
+"","","","",40814122,Trituração de calcificação tendínea orientada por RX ou US
+"","","","",40814130,Sinusografia (abscessografia)
+"","","","",40814149,Paracentese orientada por RX ou US
+"","",32130503,32130503,40814157,"Manipulação de drenos pós-drenagem (orientada por RX, TC, US ou RM)"
+33010099,33010099,33010099,33010099,40901017,Globo ocular - bilateral
+"","","","",40901025,Globo ocular com Doppler colorido - bilateral
+33010129,33010129,33010129,33010129,40901033,Glândulas salivares (todas)
+33010188,33010188,33010188,33010188,40901041,Torácico extracardíaco
+"","","","",40901050,Ecodopplercardiograma com contraste intracavitário
+"","","","",40901068,Ecodopplercardiograma com contraste para perfusão miocárdica
+"",20010150,20010150,20010150,40901076,Ecodopplercardiograma com estresse farmacológico
+"",20010206,20010206,20010206,40901084,Ecodopplercardiograma fetal com mapeamento de fluxo em cores
+"",20010214,20010214,20010214,40901092,Ecodopplercardiograma transesofágico (inclui transtorácico)
+"",20010230,20010230,20010230,40901092,Ecodopplercardiograma transesofágico (inclui transtorácico)
+20010141,20010141,20010141,20010141,40901106,Ecodopplercardiograma transtorácico
+20010133,20010133,20010133,20010133,40901106,Ecodopplercardiograma transtorácico
+33010129,33010129,33010129,33010129,40901114,Mamas
+33010021,33010021,33010021,33010021,40901122,Abdome total (inclui abdome inferior)
+33010013,33010013,33010013,33010013,40901130,"Abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)"
+33010102,33010102,33010102,33010102,40901130,"Abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)"
+33010170,33010170,33010170,33010170,40901149,Retroperitônio (grandes vasos ou adrenais)
+"","",56010273,56010273,40901149,Retroperitônio (grandes vasos ou adrenais)
+33010030,33010030,33010030,33010030,40901157,"Aparelho urinário feminino (rins, ureteres e bexiga)"
+"","",56010265,56010265,40901157,"Aparelho urinário feminino (rins, ureteres e bexiga)"
+33010030,33010030,33010030,33010030,40901165,"Aparelho urinário masculino (rins, ureteres, bexiga e próstata)"
+"","",56010265,56010265,40901165,"Aparelho urinário masculino (rins, ureteres, bexiga e próstata)"
+33010153,33010153,33010153,33010153,40901173,"Abdome inferior masculino (bexiga, próstata e vesículas seminais)"
+33010137,33010137,33010137,33010137,40901181,"Abdome inferior feminino (bexiga, útero, ovário e anexos)"
+"","","","",40901190,Dermatológico - pele e subcutâneo
+33010056,33010056,33010056,33010056,40901203,Órgãos superficiais (tireóide ou escroto ou pênis ou crânio)
+33010129,33010129,33010129,33010129,40901203,Órgãos superficiais (tireóide ou escroto ou pênis ou crânio)
+33010129,33010129,33010129,33010129,40901211,Estruturas superficiais (cervical ou axilas ou músculo ou tendão)
+33010048,33010048,33010048,33010048,40901220,Articular (por articulação)
+"",20010192,20010192,20010192,40901238,Obstétrica
+33010110,33010110,33010110,33010110,40901238,Obstétrica
+"","",33010293,33010293,40901246,Obstétrica convencional com Doppler colorido
+"","",33010285,33010285,40901246,Obstétrica convencional com Doppler colorido
+"","","","",40901254,Obstétrica com translucência nucal
+"","",33010277,33010277,40901262,Obstétrica morfológica
+"","",33010250,33010250,40901270,Obstétrica gestação múltipla: cada feto
+"","","","",40901289,Obstétrica gestação múltipla com Doppler colorido: cada feto
+"","","","",40901297,Obstétrica 1º trimestre (endovaginal)
+33010145,33010145,33010145,33010145,40901300,Transvaginal (inclui abdome inferior feminino)
+"",33010200,33010200,33010200,40901319,Transvaginal para controle de ovulação (3 ou mais exames) (inclui abdome inferior feminino)
+"","","","",40901327,Histerossonografia
+33010161,33010161,33010161,33010161,40901335,Próstata transretal (inclui abdome inferior masculino)
+"","",56010281,56010281,40901335,Próstata transretal (inclui abdome inferior masculino)
+"","",56010290,56010290,40901335,Próstata transretal (inclui abdome inferior masculino)
+33010242,33010242,"","",40901351,Doppler colorido transcraniano ou transfontanela
+"",20010168,"","",40901360,Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais)
+"",20010184,20010184,20010184,40901360,Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais)
+"",20010176,20010176,20010176,40901360,Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais)
+33010242,33010242,"","",40901360,Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais)
+33010242,33010242,"","",40901378,Doppler colorido de vasos cervicais venosos bilateral (subclávias e jugulares)

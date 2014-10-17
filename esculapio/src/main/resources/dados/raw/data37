@@ -1,0 +1,92 @@
+"","","","",TUSS
+"","",55010377,55010377,31503020,Transplante cardiopulmonar (receptor)
+"","",55010288,55010288,31504019,Transplante pulmonar (doador)
+"","",55010296,55010296,31504019,Transplante pulmonar (doador)
+"","",55010326,55010326,31504027,Transplante pulmonar unilateral (receptor)
+"",55010210,"","",31504027,Transplante pulmonar unilateral (receptor)
+"",43050247,"","",31505015,Transplante hepático (receptor)
+"","","","",31505023,Transplante hepático (doador)
+56030290,56030290,56030290,56030290,31506011,Transplante renal (receptor)
+56030126,56030126,56030126,56030126,31506038,Nefrectomia em doador vivo
+"","","","",31506038,Nefrectomia em doador vivo
+"","","","",31506046,Nefrectomia laparoscópica em doador vivo
+"",43060072,"","",31507018,Transplante pancreático (receptor)
+"","","","",31507026,Transplante pancreático (doador)
+"","","",00050016,31601014,Acupuntura por sessão
+"","","",16030060,31602010,Analgesia controlada pelo paciente - por dia subseqüente
+49050028,49050028,"","",31602010,Analgesia controlada pelo paciente - por dia subseqüente
+16010086,16010086,16010086,16010086,31602029,Analgesia por dia subseqüente. Acompanhamento de analgesia por cateter peridural
+16010124,16010124,16010124,16010124,31602037,Anestesia geral ou condutiva para realização de bloqueio neurolítico
+16010019,16010019,16010019,16010019,31602045,Bloqueio anestésico de nervos cranianos
+16010027,16010027,16010027,16010027,31602053,Bloqueio anestésico de plexo celíaco
+16010043,16010043,16010043,16010043,31602061,Bloqueio anestésico de simpático lombar
+"",25090054,25090054,25090054,31602070,Bloqueio anestésico simpático
+16010035,16010035,16010035,16010035,31602070,Bloqueio anestésico simpático
+49050028,49050028,"","",31602070,Bloqueio anestésico simpático
+"","","",16010140,31602088,Bloqueio de articulação têmporo-mandibular
+"","","",16010167,31602096,Bloqueio de gânglio estrelado com anestésico local
+"","","",16010175,31602100,Bloqueio de gânglio estrelado com neurolítico
+16010060,16010060,16010060,16010060,31602118,Bloqueio de nervo periférico
+49040057,49040057,"","",31602118,Bloqueio de nervo periférico
+49040065,49040065,"","",31602118,Bloqueio de nervo periférico
+"","","",16010159,31602126,Bloqueio facetário para-espinhoso
+16010094,16010094,16010094,16010094,31602134,Bloqueio neurolítico de nervos cranianos ou cérvico-torácico
+16010116,16010116,16010116,16010116,31602142,"Bloqueio neurolítico do plexo celíaco, simpático lombar ou torácico"
+16010108,16010108,16010108,16010108,31602150,Bloqueio neurolítico peridural ou subaracnóideo
+16010051,16010051,16010051,16010051,31602169,Bloqueio peridural ou subaracnóideo com corticóide
+"","","",16010132,31602177,Bloqueio simpático por via venosa
+49050028,49050028,"","",31602177,Bloqueio simpático por via venosa
+"","","","",31602185,Estimulação elétrica transcutânea
+"","","",16030052,31602207,"Instalação de bomba de infusão para analgesia em dor aguda ou crônica, por qualquer via"
+"","","","",31602215,Laser - por sessão
+16010078,16010078,16010078,16010078,31602223,Passagem de catéter peridural ou subaracnóideo com bloqueio de prova
+"","","","",31602231,Porte anestésico 0
+"","","","",31602240,Porte anestésico 1
+"","","","",31602258,Porte anestésico 2
+"","","","",31602266,Porte anestésico 3
+"","","","",31602274,Porte anestésico 4
+"","","","",31602282,Porte anestésico 5
+"","","","",31602290,Porte anestésico 6
+"","","","",31602304,Porte anestésico 7
+"","","","",31602312,Porte anestésico 8
+20010010,20010010,20010010,20010010,40101010,ECG convencional de até 12 derivações
+"","",20010265,20010265,40101029,ECG de alta resolução
+"","",20010036,20010036,40101037,Teste ergométrico computadorizado (inclui ECG basal convencional)
+20010028,20010028,20010028,20010028,40101045,Teste ergométrico convencional - 3 ou mais derivações simultâneas (inclui ECG basal convencional)
+"","",20010281,20010281,40101053,Variabilidade da frequência cardíaca
+"",29020280,29020280,29020280,40101061,"Ergoespirometria ou teste cardiopulmonar de exercício completo (espirometria forçada, consumo de O2, produção de CO2 e derivados, ECG, "
+"","","","",40102017,oximetria)Bilimetria  gástrica ou esofágica de 24 horas
+"","",43040233,43040233,40102025,Manometria computadorizada anorretal
+"","","",57010030,40102025,Manometria computadorizada anorretal
+"","","","",40102033,Manometria computadorizada anorretal para biofeedback - 1ª sessão
+"","","","",40102041,Manometria computadorizada anorretal para biofeedback - demais sessões
+"","","","",40102050,Manometria esofágica computadorizada com teste provocativo
+"","","","",40102068,Manometria esofágica computadorizada sem teste provocativo
+"","","","",40102076,Manometria esofágica para localização dos esfíncteres pré-pH-metria
+"",43010202,43010202,43010202,40102084,pH-metria esofágica computadorizada com um canal
+"",43010202,43010202,43010202,40102092,pH-metria esofágica computadorizada com dois canais
+"",43010202,43010202,43010202,40102106,pH-metria esofágica computadorizada com três canais
+"","","","",40103013,Análise computadorizada da voz
+"","","","",40103021,Análise computadorizada de papila e/ou fibras nervosas - monocular (GDX)
+"","","","",40103030,Análise computadorizada do segmento anterior - monocular
+51010011,"","","",40103048,Audiometria (tipo Von Bekesy)
+"","","","",40103056,Potencial evocado estacionário (Steady State)
+51010194,51010194,51010194,51010194,40103064,Audiometria de tronco cerebral (PEA) BERA
+22010114,22010114,22010114,22010114,40103064,Audiometria de tronco cerebral (PEA) BERA
+"",25010085,25010085,25010085,40103064,Audiometria de tronco cerebral (PEA) BERA
+51010020,51010020,51010020,51010020,40103072,Audiometria tonal limiar com testes de discriminação
+51010038,51010038,51010038,51010038,40103080,Audiometria tonal limiar infantil condicionada (qualquer técnica) - Peep-show
+51010046,51010046,51010046,51010046,40103099,Audiometria vocal - pesquisa de limiar de discriminação
+51010054,51010054,51010054,51010054,40103102,Audiometria vocal - pesquisa de limiar de inteligibilidade
+51010070,"","","",40103110,"Audiometria vocal com mensagem competitiva (SSI, SSW)"
+"","","","",40103129,"Avaliação neurofisiológica  da função  sexual (inclui eletroneuromiografia de MMII, RBC, NCDP, PEGC)"
+50010042,50010042,50010328,50010328,40103137,Campimetria computadorizada - monocular
+"","","","",40103145,Variação de contingente negativo (PE/Tardio)
+"","","","",40103153,Craniocorporografia
+51010291,"","","",40103161,Decay do reflexo estapédico
+22010017,22010017,22010017,22010017,40103170,EEG de rotina
+22010025,22010025,22010017,22010017,40103170,EEG de rotina
+22010050,22010050,22010017,22010017,40103170,EEG de rotina
+"","",22010297,22010297,40103188,EEG intra-operatório para monitorização cirúrgica (EEG/IO) - por hora de monitorização
+"","","","",40103196,EEGQ quantitativo (mapeamento cerebral)
+22010033,22010033,"","",40103196,EEGQ quantitativo (mapeamento cerebral)

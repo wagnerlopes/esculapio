@@ -1,0 +1,91 @@
+50120034,50120034,50120034,50120034,30302137,Tumor de órbita - exérese
+41070046,41070046,41070046,41070046,30302137,Tumor de órbita - exérese
+41070062,41070062,41070062,41070062,30302137,Tumor de órbita - exérese
+49010549,49010549,"","",30302137,Tumor de órbita - exérese
+"",50030078,50030078,50030078,30303010,Autotransplante conjuntival
+50030019,50030019,50030019,50030019,30303028,Biópsia de conjuntiva
+"","","","",30303036,Enxerto de membrana amniótica
+50030027,50030027,50030027,50030027,30303044,Infiltração subconjuntival
+54100070,54100070,"","",30303052,Plástica de conjuntiva
+50030035,50030035,50030035,50030035,30303060,Pterígio - exérese
+50030043,50030043,50030043,50030043,30303079,Reconstituição de fundo de saco
+50030051,50030051,50030051,50030051,30303087,Sutura de conjuntiva
+"","","","",30303095,Transplante de limbo
+50030060,50030060,50030060,50030060,30303109,Tumor de conjuntiva - exérese
+50040014,50040014,50040014,50040014,30304016,Cauterização de córnea
+"","","","",30304024,Ceratectomia superficial - monocular
+50040049,50040049,50040049,50040049,30304032,Corpo estranho da córnea - retirada
+"","","","",30304040,PTK ceratectomia fototerapêutica - monocular
+50040057,50040057,50040057,50040057,30304059,Recobrimento conjuntival
+50040065,50040065,50040065,50040065,30304067,Sutura de córnea (com ou sem hérnia de íris)
+"","",50040138,50040138,30304075,Tarsoconjuntivoceratoplastia
+"","","","",30304083,Implante de anel intra-estromal
+"","","","",30304091,Fotoablação de superfície convencional - PRK
+"","","","",30304105,Delaminação corneana com fotoablação estromal - LASIK
+50050010,50050010,50050010,50050010,30305012,Paracentese da câmara anterior
+"","",50050044,50050044,30305020,Reconstrução da câmara anterior
+"",50050036,50050036,50050036,30305039,Remoção de hifema
+50050028,50050028,50050028,50050028,30305047,Retirada de corpo estranho da câmara anterior
+50060015,50060015,50060015,50060015,30306019,Capsulotomia YAG ou cirúrgica
+"",50060058,50060058,50060058,30306027,Facectomia com lente intra-ocular com facoemulsificação
+50060040,50060040,50060040,50060040,30306035,Facectomia com lente intra-ocular sem facoemulsificação
+50060031,50060031,50060031,50060031,30306043,Facectomia sem implante
+"","","","",30306051,Fixação iriana de lente intra-ocular
+"",50060058,50060058,50060058,30306060,Implante secundário / explante / fixação escleral ou iriana
+"","","","",30306078,Remoção de pigmentos da lente intra-ocular com yag-laser
+"","",50070134,50070134,30307015,Biópsia de tumor via pars plana
+"","",50070142,50070142,30307023,Biópsia de vítreo via pars plana
+"","",50070126,50070126,30307031,Endolaser/Endodiatermia
+50070045,50070045,50070045,50070045,30307040,Implante de silicone intravítreo
+"","",50070100,50070100,30307058,Infusão de perfluocarbono
+"","",50070088,50070088,30307066,Membranectomia EPI ou sub-retiniana
+50070029,50070029,50070029,50070029,30307074,Retirada de corpo estranho
+"","","","",30307082,Retirada de óleo de silicone via pars plana
+"","",50070118,50070118,30307090,Troca fluido gasosa
+"","",50070070,50070070,30307104,Vitrectomia a céu aberto - ceratoprótese
+"","",50070150,50070150,30307104,Vitrectomia a céu aberto - ceratoprótese
+"","",50070150,50070150,30307112,Vitrectomia anterior
+50070053,50070053,50070053,50070053,30307112,Vitrectomia anterior
+50070061,50070061,50070061,50070061,30307120,Vitrectomia vias pars plana
+50080016,"","","",30308011,Biópsia de esclera
+"",50080040,50080040,50080040,30308020,Enxerto de esclera (qualquer técnica)
+50080032,50080032,50080032,50080032,30308038,Sutura de esclera
+50080024,50080024,50080024,50080024,30308046,Exérese de tumor de esclera
+50090011,50090011,50090011,50090011,30309018,Enucleação ou evisceração com ou sem implante
+50090020,50090020,50090020,50090020,30309018,Enucleação ou evisceração com ou sem implante
+50090038,"","","",30309018,Enucleação ou evisceração com ou sem implante
+50090046,"","","",30309018,Enucleação ou evisceração com ou sem implante
+50090054,50090054,50090054,50090054,30309026,Injeção retrobulbar
+50090062,50090062,50090062,50090062,30309034,Reconstituição de globo ocular com lesão de estruturas intra-oculares
+50100017,50100017,50100017,50100017,30310016,Biópsia de íris e corpo ciliar
+50100025,50100025,50100025,50100025,30310024,Cicloterapia - qualquer técnica
+"","","","",30310024,Cicloterapia - qualquer técnica
+50100041,50100092,50100092,50100092,30310024,Cicloterapia - qualquer técnica
+50100033,50100033,50100033,50100033,30310032,Cirurgias fistulizantes antiglaucomatosas
+"","",50100106,50100106,30310040,Cirurgias fistulizantes com implantes valvulares
+"","",50100114,50100114,30310059,Drenagem de descolamento de coróide
+50100050,50100050,50100050,50100050,30310067,Fototrabeculoplastia (laser)
+"","",50100149,50100149,30310075,Goniotomia ou trabeculotomia
+50100068,50100068,50100068,50100068,30310083,Iridectomia (laser ou cirúrgica)
+50100076,"","","",30310083,Iridectomia (laser ou cirúrgica)
+50100084,50100084,50100084,50100084,30310091,Iridociclectomia
+"","",50100130,50100130,30310105,Sinequiotomia (cirúrgica)
+"","",50100122,50100122,30310113,Sinequiotomia (laser)
+50110012,50110012,50110012,50110012,30311012,Biópsia de músculos
+"","","","",30311020,Cirurgia com sutura ajustável
+"","","","",30311039,Estrabismo ciclo vertical/transposição - monocular
+50110020,50110020,50110020,50110020,30311047,Estrabismo horizontal - monocular
+"","","","",30311055,Injeção de toxina botulínica - monocular
+"","",50140078,50140078,30312019,Aplicação de placa radiativa episcleral
+"","",50140094,50140094,30312027,Biópsia de retina
+"","",50140108,50140108,30312035,Exérese de tumor de coróide e/ou corpo ciliar
+"","",50100157,50100157,30312043,Fotocoagulação (laser) - por sessão  - monocular
+50140019,50140019,50140019,50140019,30312043,Fotocoagulação (laser) - por sessão  - monocular
+"","","","",30312051,Infusão de gás expansor
+"","",50140060,50140060,30312060,Pancrioterapia periférica
+"","",50140086,50140086,30312078,Remoção de implante episcleral
+50140035,50140035,50140035,50140035,30312086,Retinopexia com introflexão escleral
+"",50140051,50140051,50140051,30312094,Retinopexia pneumática
+50140027,50140027,50140027,50140027,30312108,Retinopexia profilática (criopexia)
+"","","","",30312116,Retinotomia relaxante
+"","",50150081,50150081,30313015,Cirurgia da glândula lacrimal

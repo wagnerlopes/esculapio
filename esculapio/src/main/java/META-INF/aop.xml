@@ -1,0 +1,12 @@
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">    
+
+<!-- $Id$ -->
+
+<aspectj>    
+   <!-- weaver options="-showWeaveInfo
+                        -XmessageHandlerClass:org.springframework.aop.aspectj.AspectJWeaverMessageHandler
+                        -Xset:weaveJavaxPackages=true" -->
+   <weaver options="-Xset:weaveJavaxPackages=true">
+     <include within="hospital..*"/>
+   </weaver>
+</aspectj>

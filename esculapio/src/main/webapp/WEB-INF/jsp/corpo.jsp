@@ -1,0 +1,1 @@
+<%-- $Id--%><%@page contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" trimDirectiveWhitespaces="true" %><div id="corpo" class="row">  <p>&nbsp;</p>  <p class="jumbotron">Bem-vindo ao Sistema de Controle do FUSEx.</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p></div>

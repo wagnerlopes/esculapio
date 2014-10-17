@@ -1,0 +1,91 @@
+51050102,51050102,51050102,51050102,30205085,Cauterização (qualquer técnica) por sessão
+51050072,51050072,51050072,51050072,30205093,Corpo estranho de faringe - retirada em consultório
+51050080,51050080,51050080,51050080,30205107,Corpo estranho de faringe - retirada sob anestesia geral
+"","","","",30205115,Criptólise amigdaliana
+41050088,41050088,41050088,41050088,30205140,Faringolaringectomia
+41050096,41050096,"",30206081,30205140,Faringolaringectomia
+41050070,41050070,41050070,41050070,30205140,Faringolaringectomia
+"",41050088,41050088,41050088,30205140,Faringolaringectomia
+"","",43010245,43010245,30205158,Faringolaringoesofagectomia total
+"","",51060272,51060272,30205158,Faringolaringoesofagectomia total
+"","",51060280,51060280,30205158,Faringolaringoesofagectomia total
+"","",51060299,51060299,30205158,Faringolaringoesofagectomia total
+41050053,41050053,41050053,41050053,30205166,Ressecção de nasoangiofibroma
+41050037,41050037,41050037,41050037,30205174,Ressecção de tumor de faringe (via bucal ou nasal)
+41050045,41050045,41050045,41050045,30205174,Ressecção de tumor de faringe (via bucal ou nasal)
+41050061,41050061,41050061,41050061,30205182,Ressecção de tumor de faringe com acesso por faringotomia ou por retalho jugal
+"","","","",30205190,Ressecção de tumor de faringe com mandibulectomia
+"","","","",30205204,Ressecção de tumor de faringe por mandibulotomia
+"","","","",30205212,Ressecção de tumor de nasofaringe via endoscópica
+"","","","",30205220,Tonsilectomia a laser
+51050099,51050099,51050099,51050099,30205239,Tumor de boca ou faringe - ressecção
+51050145,51050145,51050145,51050145,30205247,Uvulopalatofaringoplastia (qualquer técnica)
+"","","","",30205263,Uvulopalatofaringoplastia por radiofreqüência
+"","",51050161,51050161,30205263,Uvulopalatofaringoplastia por radiofreqüência
+"","","","",30205271,Adenoidectomia por videoendoscopia
+"","","","",30205280,Ressecção de nasoangiofibroma por videoendoscopia
+"","",51060191,51060191,30206014,Alargamento de traqueostomia
+"","",51060108,51060108,30206022,Aritenoidectomia microcirúrgica
+"","",51060116,51060116,30206030,Aritenoidectomia ou aritenopexia via externa
+"","","","",30206049,Confecção de fístula tráqueo-esofágica para prótese fonatória com miotomia faríngea
+"","","","",30206065,Exérese de tumor por via endoscópica
+"","",51060124,51060124,30206103,Injeção intralaríngea de toxina botulínica
+41060083,41060083,"",30206146,30206120,Laringectomia parcial
+41060091,41060091,"","",30206120,Laringectomia parcial
+41060075,41060075,41060075,41060075,30206120,Laringectomia parcial
+41060016,41060016,41060016,41060016,30206120,Laringectomia parcial
+"","",41060032,41060032,30206120,Laringectomia parcial
+"","",51060230,51060230,30206120,Laringectomia parcial
+"","",51060256,51060256,30206120,Laringectomia parcial
+"","",51060264,51060264,30206120,Laringectomia parcial
+41060059,41060059,41060059,41060059,30206138,Laringectomia total
+41060067,41060067,41060067,41060067,30206138,Laringectomia total
+"","",51060230,51060230,30206138,Laringectomia total
+41060032,41060032,41060032,41060032,30206138,Laringectomia total
+41060040,41060040,41060040,41060040,30206138,Laringectomia total
+"","",51060264,51060264,30206138,Laringectomia total
+"","",51060256,51060256,30206138,Laringectomia total
+"","","",30206146,30206138,Laringectomia total
+41060105,41060105,41060105,41060105,30206170,Laringofissura (inclusive com cordectomia)
+"","",51060221,51060221,30206170,Laringofissura (inclusive com cordectomia)
+"","",51060213,51060213,30206200,Laringotraqueoplastia
+"","",51060086,51060086,30206219,Microcirurgia com laser para remoção de lesões malignas
+"","",51060078,51060078,30206227,Microcirurgia com uso de laser para ressecção de lesões benignas
+"","",51060051,51060051,30206235,Microcirurgia para decorticação ou tratamento de edema de Reinke
+"","",51060060,51060060,30206243,Microcirurgia para remoção de cisto ou lesão intracordal
+"","",51060043,51060043,30206251,Microcirurgia para ressecção de papiloma
+"","",51060035,51060035,30206260,"Microcirurgia para ressecção de pólipo, nódulo ou granuloma"
+"","",51060094,51060094,30206278,Microcirurgia para tratamento de paralisia de prega vocal (inclui injeção de materiais)
+"","",51060248,51060248,30206294,Reconstrução para fonação após laringectomia
+"","",41060040,41060040,30206294,Reconstrução para fonação após laringectomia
+"","",51060159,51060159,30206308,Tiroplastia tipo 1 com rotação de aritenóide
+"","",51060140,51060140,30206316,Tiroplastia tipo 1 simples
+"","",51060175,51060175,30206324,Tiroplastia tipo 2 ou 3
+"","","","",30206359,Tratamento cirúrgico da estenose laringo-traqueal
+"","",51060205,51060205,30206367,Tratamento cirúrgico de trauma laríngeo (agudo)
+"","",51040220,51040220,30207010,Redução de fratura do malar (sem fixação)
+54150043,54150043,54150043,54150043,30207010,Redução de fratura do malar (sem fixação)
+"","",51040239,51040239,30207029,Redução de fratura do malar (com fixação)
+54150051,54150051,54150051,54150051,30207029,Redução de fratura do malar (com fixação)
+"","",51040247,51040247,30207037,Redução de fratura de seio frontal (acesso frontal)
+54150132,54150132,54150132,54150132,30207037,Redução de fratura de seio frontal (acesso frontal)
+"","",51040255,51040255,30207045,Redução de fratura de seio frontal (acesso coronal)
+54150124,54150124,54150124,54150124,30207045,Redução de fratura de seio frontal (acesso coronal)
+54150060,54150060,54150060,54150060,30207061,Fratura do arco zigomático - redução instrumental sem fixação
+"","",54150124,54150124,30207061,Fratura do arco zigomático - redução instrumental sem fixação
+54150078,54150078,54150078,54150078,30207070,Fratura do arco zigomático - redução cirúrgica com fixação
+54150140,54150140,54150140,54150140,30207088,Fratura  simples de mandíbula com contenção e bloqueio intermaxilar eventual
+54150159,54150159,54150159,54150159,30207096,Fratura simples de mandíbula - redução cirúrgica com fixação óssea e bloqueio intermaxilar eventual
+54150108,54150108,54150108,54150108,30207100,Fratura naso etmóido órbito-etmoidal
+54150167,54150167,54150167,54150167,30207118,Fratura cominutiva de mandíbula - redução cirúrgica com fixação óssea e bloqueio intermaxilar eventual
+54150175,54150175,54150175,54150175,30207126,Fraturas complexas de mandíbula - redução cirúrgica com fixação óssea e eventual bloqueio intermaxilar
+54150183,54150183,54150183,54150183,30207134,Fraturas alveolares - fixação com aparelho e contenção
+54150191,54150191,54150191,54150191,30207142,"Fratura de maxila, tipo Lefort I e II - redução e aplicação de levantamento zigomático-maxilar com bloqueio intermaxilar eventual"
+54150205,54150205,54150205,54150205,30207150,"Fratura de maxila, tipo Lefort III - redução e aplicação de levantamento crânio-maxilar com bloqueio intermaxilar eventual"
+54150213,54150213,54150213,54150213,30207169,"Fratura Lefort I - fixação cirúrgica com síntese óssea, levantamento e bloqueio intermaxilar eventual"
+54150221,54150221,54150221,54150221,30207177,"Fratura Lefort II - fixação cirúrgica com síntese óssea, levantamento e bloqueio intermaxilar eventual"
+54150230,54150230,54150230,54150230,30207185,"Fratura Lefort III - fixação cirúrgica com síntese óssea, levantamento crânio-maxilar e bloqueio intermaxilar eventual"
+54150248,54150248,"","",30207193,"Fraturas múltiplas de terço médio da face:fixação cirúrgica com síntese óssea, levantamento crânio maxilar e bloqueio intermaxilar"
+54150256,54150256,54150256,54150256,30207207,"Fraturas complexas do terço médio da face, fixação cirúrgica com síntese, levantamento crânio-maxilar, enxerto ósseo, halo craniano "
+54150264,54150264,54150264,54150264,30207215,eventualRetirada dos meios de fixação (na face)
+54150272,"",54150272,54150272,30207223,Tratamento conservador de fratura de ossos

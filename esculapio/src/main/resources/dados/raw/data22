@@ -1,0 +1,91 @@
+55020046,55020046,"","",30804035,Pleurectomia
+55020100,55020100,55020100,55020100,30804043,Pleurodese (qualquer técnica)
+55020062,55020062,"","",30804043,Pleurodese (qualquer técnica)
+55060102,55060102,"","",30804043,Pleurodese (qualquer técnica)
+55020054,55020054,55020054,55020054,30804051,Pleuroscopia
+55020062,55020062,"","",30804051,Pleuroscopia
+"","",55020143,55020143,30804060,Pleurostomia (aberta)
+53010302,53050070,"","",30804086,Punção pleural
+55020020,55020020,55020020,55020020,30804086,Punção pleural
+"",55060064,"","",30804086,Punção pleural
+"","",55020151,55020151,30804094,Repleção de cavidade pleural com solução de antibiótico para tratamento de empiema
+"","",55020208,55020208,30804094,Repleção de cavidade pleural com solução de antibiótico para tratamento de empiema
+55020097,55020097,55020097,55020097,30804108,Ressecção de tumor da pleura localizado
+"",55020119,55020119,55020119,30804116,Retirada de dreno tubular torácico (colocado em outro serviço)
+"","","","",30804124,Tenda pleural
+"",53050037,"","",30804132,Toracostomia com drenagem pleural fechada
+55060153,55060153,55060153,55060153,30804132,Toracostomia com drenagem pleural fechada
+55060137,55060137,"","",30804132,Toracostomia com drenagem pleural fechada
+"","","","",30804140,Tratamento operatório da hemorragia intrapleural
+"","","","",30804159,Descorticação pulmonar por videotoracoscopia
+"","","","",30804167,Pleurectomia por videotoracoscopia
+"","","","",30804175,Pleurodese por video
+"","","","",30804183,Pleuroscopia por vídeo
+"","","","",30804191,Ressecção de tumor da pleura localizado por vídeo
+"","","","",30804205,Tenda pleural por vídeo
+"","","","",30804213,Tratamento operatório da hemorragia intrapleural por  vídeo
+"","",55050174,55050174,30805015,Ressecção de bócio intratorácico
+55050026,55050026,55050026,55050026,30805015,Ressecção de bócio intratorácico
+"","",55050131,55050131,30805023,Biópsia de linfonodos pré-escalênicos ou do confluente venoso
+55050018,55050018,55050018,55050018,30805031,Biópsia de tumor do mediastino (qualquer via)
+55050042,55050042,"","",30805031,Biópsia de tumor do mediastino (qualquer via)
+53010132,53050010,53050010,53050010,30805040,Cisto ou duplicação brônquica ou esôfagica - tratamento cirúrgico
+"","",55050166,55050166,30805074,Ligadura de artérias brônquicas por toracotomia para controle de hemoptise
+"","",55050190,55050190,30805082,Ligadura do ducto-torácico (qualquer via)
+"","","","",30805090,Linfadenectomia mediastinal
+55050034,55050034,55050034,55050034,30805104,"Mediastinoscopia, via cervical"
+55050050,55050050,"","",30805112,"Mediastinotomia (via paraesternal, transesternal, cervical)"
+55050069,55050069,55050069,55050069,30805112,"Mediastinotomia (via paraesternal, transesternal, cervical)"
+"",55050123,55050123,55050123,30805120,Mediastinotomia extrapleural por via posterior
+"",40090299,"","",30805139,Pericardiotomia com abertura pleuro-pericárdica (qualquer técnica)
+55050085,55050085,55050085,55050085,30805147,Ressecção de tumor de mediastino
+"","",55050158,55050158,30805155,Timectomia (qualquer via)
+55050093,55050093,55050093,55050093,30805155,Timectomia (qualquer via)
+44030029,44030029,44030029,44030029,30805155,Timectomia (qualquer via)
+"","","","",30805163,Tratamento da mediastinite (qualquer via)
+"","",55050204,55050204,30805171,Vagotomia troncular terapêutica por toracotomia
+"","","","",30805180,Biópsia de tumor do mediastino por vídeo
+"","","","",30805198,Cisto ou duplicação brônquica ou esofágica – tratamento cirúrgico por vídeo
+"","","","",30805201,Ligadura de artérias brônquicas para controle de hemoptise por vídeo
+"","","","",30805210,Ligadura de ducto-torácico por vídeo
+"","","","",30805228,Linfadenectomia mediastinal por vídeo
+55050042,55050042,"","",30805236,"Mediastinoscopia, via cervical por vídeo"
+"","","","",30805244,Mediastinotomia extrapleural por via posterior por vídeo
+"","","","",30805252,Pericardiotomia com abertura pleuro-pericárdica por vídeo
+"","","","",30805260,Ressecção de tumor de mediastino por vídeo
+"","","","",30805279,Timectomia por vídeo
+"","","","",30805287,Tratamento da mediastinite por vídeo
+"","",55050182,55050182,30805295,Retirada de corpo estranho do mediastino
+"",55040020,55040020,55040020,30805295,Retirada de corpo estranho do mediastino
+"",53030028,53030028,53030028,30806011,Abscesso subfrênico - tratamento cirúrgico
+53010175,53050045,53050045,53050045,30806020,Eventração diafragmática - tratamento cirúrgico
+43080081,43080081,43080081,43080081,30806038,Hérnia diafragmática - tratamento cirúrgico (qualquer técnica)
+43080090,43080090,43080090,43080090,30806038,Hérnia diafragmática - tratamento cirúrgico (qualquer técnica)
+53010205,53050053,53050053,53050053,30806038,Hérnia diafragmática - tratamento cirúrgico (qualquer técnica)
+"","","","",30806046,Implante de marca-passo diafragmático definitivo
+"","","","",30806054,Hérnia diafragmática – tratamento cirúrgico por vídeo
+40030067,40030067,40030067,40030067,30901014,"Ampliação (anel valvar, grandes vasos, átrio, ventrículo)"
+40030016,40030016,40030016,40030016,30901022,Canal arterial persistente - correção cirúrgica
+40030024,40030024,40030024,40030024,30901030,Coarctação da aorta - correção cirúrgica
+40030032,40030032,40030032,40030032,30901049,Confecção de bandagem da artéria pulmonar
+40030040,40030040,40030040,40030040,30901057,Correção cirúrgica da comunicação interatrial
+40030059,40030059,40030059,40030059,30901065,Correção cirúrgica da comunicação interventricular
+"","","","",30901073,Correção de cardiopatia congênita + cirurgia valvar
+"","","","",30901081,Correção de cardiopatia congênita + revascularização do miocárdio
+"",40030091,40030091,40030091,30901090,"Redirecionamento do fluxo sanguíneo (com anastomose direta, retalho, tubo)"
+"",40030075,40030075,40030075,30901103,"Ressecção (infundíbulo, septo, membranas, bandas)"
+"",40030083,40030083,40030083,30901111,"Transposições (vasos, câmaras)"
+"",40010066,40010066,40010066,30902010,Ampliação do anel valvar
+"","","","",30902029,Cirurgia multivalvar
+40010023,"","","",30902037,Comissurotomia valvar
+40010015,40010015,40010015,40010015,30902037,Comissurotomia valvar
+"",40010058,40010058,40010058,30902045,Plastia valvar
+40010031,40010031,40010031,40010031,30902053,Troca valvar
+40010040,"","","",30902053,Troca valvar
+40020010,40020010,40020010,40020010,30903017,Aneurismectomia de VE
+40020045,40020045,40020045,40020045,30903025,Revascularização do miocárdio
+40020037,"","","",30903033,Revascularização do miocárdio + cirurgia valvar
+"","","","",30903041,Ventriculectomia parcial
+"",20020066,20020066,20020066,30904013,"Cárdio-estimulação transesofágica (CETE), terapêutica ou diagnóstica"
+"",40050041,40050041,40050041,30904021,"Implante de desfibrilador interno, placas e eletrodos"
+"","","","",30904064,Implante de estimulador cardíaco artificial multissítio

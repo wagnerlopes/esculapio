@@ -1,0 +1,91 @@
+"","","","",40312364,"Vírus respiratório, triagem aspirado nasofaringeo"
+"","","","",40312372,"Vírus respiratório, triagem lavado nasofaringeo"
+"","","","",40312380,"Vírus respiratório, triagem secreção orofaringe"
+"","","","",40312399,"Vírus respiratório, triagem secreção traqueal"
+"","","","",40312402,"Vírus respiratório, triagem swab nasal"
+28150015,28150015,28150015,28150015,40313018,Ácido delta aminolevulínico (para chumbo inorgânico)
+28150023,28150023,28150023,28150023,40313026,Ácido delta aminolevulínico desidratase (para chumbo inorgânico)
+28150031,28150031,28150031,28150031,40313034,Ácido fenilglioxílico (para estireno)
+28150040,28150040,28150040,28150040,40313042,Ácido hipúrico (para tolueno)
+28150058,28150058,28150058,28150058,40313050,Ácido mandélico (para estireno)
+28150066,28150066,28150066,28150066,40313069,Ácido metilhipúrico (para xilenos)
+"","",28150325,28150325,40313077,Ácido salicílico
+28150074,28150074,28150074,28150074,40313085,"Azida sódica, teste da (para deissulfeto de carbono)"
+28150090,28150090,28150090,28150090,40313093,Carboxihemoglobina (para monóxido de carbono  diclorometano)
+28040104,28040104,"","",40313093,Carboxihemoglobina (para monóxido de carbono  diclorometano)
+28150120,28150120,28150120,28150120,40313107,Chumbo
+28150104,28150104,28150104,28150104,40313115,Colinesterase (para carbamatos  organofosforados)
+28150112,28150112,28150112,28150112,40313123,Coproporfirinas (para chumbo inorgânico)
+"","","",28150368,40313131,Dialdeído malônico
+28010191,28150309,28150309,28150309,40313140,Etanol
+28150147,28150147,28150147,28150147,40313158,"Fenol (para benzeno, fenol)"
+28150155,28150155,28150155,28150155,40313166,Flúor (para fluoretos)
+"","",28150317,28150317,40313174,Formoldeído
+28150171,28150171,28150171,28150171,40313182,Meta-hemoglobina (para anilina nitrobenzeno)
+28150279,28150279,28150279,28150279,40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28150082,28150082,"","",40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28150163,28150163,"","",40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28150198,28150198,"","",40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28150295,28150295,"","",40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28130294,"","","",40313190,"Metais Al, As, Cd, Cr, Mn, Hg, Ni, Zn, Co, outro (s) absorção atômica (cada)"
+28150180,28150180,28150180,28150180,40313204,Metanol
+28150201,28150201,28150201,28150201,40313212,P-aminofenol (para anilina)
+28150210,28150210,28150210,28150210,40313220,P-nitrofenol (para nitrobenzeno)
+28150228,28150228,28150228,28150228,40313239,Protoporfirinas livres (para chumbo inorgânico)
+28150236,28150236,28150236,28150236,40313247,Protoporfirinas Zn (para chumbo inorgânico)
+"","","",28150350,40313255,"Selênio, dosagem"
+28011309,28011309,28150333,28150333,40313263,"Sulfatos orgânicos ou inorgânicos, pesquisa (cada)"
+28150244,28150244,28150244,28150244,40313271,Tiocianato (para cianetos  nitrilas alifáticas)
+28150252,28150252,28150252,28150252,40313280,"Triclorocompostos totais (para tetracloroetileno, tricloroetano, tricloroetileno)"
+"","","","",40313298,Ácido acético
+"","","","",40313301,Ácido metil malônico
+28150139,28150139,"","",40313310,Cromo
+28150260,28150260,"","",40313328,Zinco
+28091260,28011260,28150325,28150325,40313336,"Salicilatos, pesquisa"
+"","",28140141,"",40313336,"Salicilatos, pesquisa"
+"","","","",40313344,Metil Etil Cetona
+"","","","",40314014,"Apolipoproteína E, genotipagem"
+"","","",28170024,40314022,"Citomegalovírus - qualitativo, por PCR"
+"","","","",40314030,"Citomegalovírus - quantitativo, por PCR"
+"","","",28170032,40314049,Cromossomo philadelfia
+28040929,28040929,28040929,28040929,40314049,Cromossomo philadelfia
+"","","",28170164,40314057,Fator V de layden por PCR
+"","","",28170172,40314065,"Fibrose cística, pesquisa de uma mutação"
+"","","",28170067,40314073,Hepatite B (qualitativo) PCR
+"","",28062469,28062469,40314073,Hepatite B (qualitativo) PCR
+"","","",28170075,40314081,Hepatite B (quantitativo) PCR
+"","","",28170083,40314090,Hepatite C (qualitativo) por PCR
+"","",27041018,27041018,40314090,Hepatite C (qualitativo) por PCR
+"","",28062191,"",40314090,Hepatite C (qualitativo) por PCR
+"","","",28170091,40314103,Hepatite C (quantitativo) por PCR
+"","",27041018,27041018,40314103,Hepatite C (quantitativo) por PCR
+"","",28062191,"",40314103,Hepatite C (quantitativo) por PCR
+"","","","",40314111,Hepatite C - genotipagem
+"","","",28170121,40314120,HIV - carga viral PCR
+"","",27040976,27040976,40314120,HIV - carga viral PCR
+"","",27040984,27040984,40314120,HIV - carga viral PCR
+"","","",28170113,40314138,HIV - qualitativo por PCR
+"","",27040976,27040976,40314138,HIV - qualitativo por PCR
+"","",27040984,27040984,40314138,HIV - qualitativo por PCR
+"","","","",40314146,"HIV, genotipagem"
+"","",28062213,28170130,40314154,HPV (vírus do papiloma humano) + subtipagem quando necessário PCR
+"","","",28170253,40314162,HTLV I / II por PCR (cada)
+"","",27040992,27040992,40314162,HTLV I / II por PCR (cada)
+"","",27041000,27041000,40314162,HTLV I / II por PCR (cada)
+"","","",28170148,40314170,Mycobactéria PCR
+"","",28100760,28100760,40314170,Mycobactéria PCR
+"","","",28170245,40314189,Parvovírus por PCR
+"","","","",40314197,"Proteína S total + livre, dosagem"
+"","","",28170210,40314200,Rubéola por PCR
+"","","",28170237,40314219,Sífilis por PCR
+"","","",28170229,40314227,Toxoplasmose por PCR
+"","","",28170199,40314235,X frágil por PCR
+"","","",28170016,40314243,Chlamydia por biologia molecular
+"","","","",40314251,Citogenética de medula óssea
+"","","",28170156,40314260,Amplificação de material por biologia molecular (outros agentes)
+"","","","",40314278,Pesquisa de outros agentes por PCR
+"","","","",40314286,Pesquisa de mutação de alelo específico por PCR
+"","","","",40314294,Resistência a agentes anti virais por biologia molecular (cada droga)
+"","","","",40314308,Quantificação de outros agentes por PCR
+"","","","",40314316,SCIH tipagem molecular de bactérias
+31120318,31120318,31120318,31120318,40316017,17-alfa-hidroxiprogesterona

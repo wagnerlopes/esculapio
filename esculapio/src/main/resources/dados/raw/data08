@@ -1,0 +1,91 @@
+"","",41140036,41140036,30213045,Tireoidectomia parcial
+44040059,44040059,41140052,41140052,30213053,Tireoidectomia total
+44040067,44040067,41140060,41140060,30213053,Tireoidectomia total
+44040075,44040075,41140079,41140079,30213053,Tireoidectomia total
+44010010,44010010,41150015,41150015,30214017,Biópsia de paratireóide
+44010044,44010044,41150040,41150040,30214025,Paratireoidectomia com toracotomia
+"","",41150058,41150058,30214025,Paratireoidectomia com toracotomia
+"","",41150066,41150066,30214025,Paratireoidectomia com toracotomia
+"","",41150074,41150074,30214025,Paratireoidectomia com toracotomia
+"","",41150082,41150082,30214033,Reimplante de paratireóide previamente preservada
+"","",41150074,41150074,30214033,Reimplante de paratireóide previamente preservada
+44010028,44010028,41150023,41150023,30214041,Tratamento cirúrgico do hiperparatireoidismo primário
+44010052,44010052,"","",30214041,Tratamento cirúrgico do hiperparatireoidismo primário
+44010060,44010060,"","",30214041,Tratamento cirúrgico do hiperparatireoidismo primário
+44010036,44010036,41150031,41150031,30214050,Tratamento cirúrgico do hiperparatireoidismo secundário
+49010042,49010042,49010042,49010042,30215013,Cranioplastia
+49010093,49010093,"","",30215021,Craniotomia descompressiva
+49010530,49010530,49010530,49010530,30215030,Craniotomia para tumores ósseos
+"","",49010743,49010743,30215048,Reconstrução craniana ou craniofacial
+49010077,49010077,49010077,49010077,30215056,Retirada de cranioplastia
+49010069,49010069,49010069,49010069,30215072,Tratamento cirúrgico da craniossinostose
+49010182,49010182,49010182,49010182,30215080,Tratamento cirúrgico da fratura do crânio - afundamento
+49010026,49010026,"","",30215080,Tratamento cirúrgico da fratura do crânio - afundamento
+49010425,49010425,49010425,49010425,30215099,Tratamento cirúrgico da osteomielite de crânio
+50130013,50130013,50130013,50130013,30301017,Abscesso de pálpebra - drenagem
+50130021,50130021,50130021,50130021,30301025,Biópsia de pálpebra
+41070011,41070011,41070011,41070011,30301025,Biópsia de pálpebra
+50130030,50130030,50130030,50130030,30301033,Blefarorrafia
+50130056,50130056,50130056,50130056,30301041,Calázio
+"","",50130218,50130218,30301050,Cantoplastia lateral
+"","",54120101,54120101,30301050,Cantoplastia lateral
+"","",50130200,50130200,30301068,Cantoplastia medial
+"","",54120101,54120101,30301068,Cantoplastia medial
+50130048,50130048,50130048,50130048,30301076,Coloboma - com plástica
+54100054,54100054,54100054,54100054,30301084,Correção cirúrgica de ectrópio ou entrópio
+50130072,50130072,50130072,50130072,30301084,Correção cirúrgica de ectrópio ou entrópio
+50130099,50130099,50130099,50130099,30301084,Correção cirúrgica de ectrópio ou entrópio
+"",54100143,"","",30301092,Correção de bolsas palpebrais - unilateral
+"","",50130277,50130277,30301106,Dermatocalaze ou blefarocalaze - unilateral
+50130080,50130080,50130080,50130080,30301114,Epicanto - correção cirúrgica - unilateral
+54100011,54100011,54100011,54100011,30301114,Epicanto - correção cirúrgica - unilateral
+50130064,50130064,50130064,50130064,30301122,Epilação
+54100062,54100062,50130234,50130234,30301130,Epilação de cílios (diatermo-coagulação)
+"","",50130285,50130285,30301149,Fissura palpebral - correção cirúrgica
+54100151,54100151,54100151,54100151,30301149,Fissura palpebral - correção cirúrgica
+54100020,54100020,54100020,54100020,30301157,Lagoftalmo - correção cirúrgica
+"","",50130226,50130226,30301157,Lagoftalmo - correção cirúrgica
+"","",50130242,50130242,30301165,Pálpebra - reconstrução parcial (com ou sem ressecção de tumor)
+54100100,54100100,54100100,54100100,30301165,Pálpebra - reconstrução parcial (com ou sem ressecção de tumor)
+"","",41070038,41070038,30301173,Pálpebra - reconstrução total (com ou sem ressecção de tumor) - por estágio
+"","",50130250,50130250,30301173,Pálpebra - reconstrução total (com ou sem ressecção de tumor) - por estágio
+54100119,54100119,54100119,54100119,30301173,Pálpebra - reconstrução total (com ou sem ressecção de tumor) - por estágio
+50130102,50130102,50130102,50130102,30301181,Ptose palpebral - correção cirúrgica - unilateral
+54100038,54100038,54100038,54100038,30301181,Ptose palpebral - correção cirúrgica - unilateral
+41070020,41070020,41070020,41070020,30301190,Ressecção de tumores palpebrais
+41070038,41070038,41070038,41070038,30301190,Ressecção de tumores palpebrais
+50130153,50130153,50130153,50130153,30301190,Ressecção de tumores palpebrais
+50150049,50150049,50150049,50150049,30301190,Ressecção de tumores palpebrais
+50130145,"","","",30301190,Ressecção de tumores palpebrais
+"","",50130196,50130196,30301203,Retração palpebral
+50130110,50130110,50130110,50130110,30301211,Simbléfaro com ou sem enxerto - correção cirúrgica
+54100046,54100046,54100046,54100046,30301211,Simbléfaro com ou sem enxerto - correção cirúrgica
+"","",50130269,50130269,30301220,Supercílio - reconstrução total
+54100127,54100127,54100127,54100127,30301220,Supercílio - reconstrução total
+50130129,50130129,50130129,50130129,30301238,Sutura de pálpebra
+"",50130170,50130170,50130170,30301246,Tarsorrafia
+54100135,54100135,54100135,54100135,30301246,Tarsorrafia
+"","",50130188,50130188,30301254,Telecanto - correção cirúrgica - unilateral
+50130137,50130137,50130137,50130137,30301262,Triquíase com ou sem enxerto
+50130161,50130161,50130161,50130161,30301270,Xantelasma palpebral - exérese - unilateral
+"","",50120050,50120050,30302013,Correção da enoftalmia
+49010417,49010417,49010417,49010417,30302021,Descompressão de órbita ou nervo ótico
+50120018,50120018,50120018,50120018,30302021,Descompressão de órbita ou nervo ótico
+54150019,54150019,54150019,54150019,30302021,Descompressão de órbita ou nervo ótico
+51040166,51040166,51040166,51040166,30302021,Descompressão de órbita ou nervo ótico
+"","","","",30302030,Exenteração com osteotomia
+50120026,50120026,50120026,50120026,30302048,Exenteração de órbita
+41070054,41070054,41070054,41070054,30302048,Exenteração de órbita
+41070089,41070089,41070089,41070089,30302048,Exenteração de órbita
+"","",50120093,50120093,30302048,Exenteração de órbita
+"","",50120085,50120085,30302056,"Exérese de tumor com abordagem craniofacial oncológica (tempo facial) pálpebra, cavidade orbitária e olhos"
+54150086,54150086,54150086,54150086,30302064,Fratura de órbita - redução cirúrgica
+54150094,54150094,54150094,54150094,30302072,Fratura de órbita - redução cirúrgica e enxerto ósseo
+"","",50120069,50120069,30302080,Implante secundário de órbita
+"","",49010751,49010751,30302099,Microcirurgia para tumores orbitários
+"",50120042,50120042,50120042,30302102,Reconstituição de paredes orbitárias
+"","",50120077,50120077,30302110,Reconstrução parcial de cavidade orbital - por estágio
+54100089,54100089,54100089,54100089,30302110,Reconstrução parcial de cavidade orbital - por estágio
+"",54100160,"","",30302110,Reconstrução parcial de cavidade orbital - por estágio
+54100097,54100097,54100097,54100097,30302129,Reconstrução total da cavidade orbital - por estágio
+"","",50120077,50120077,30302129,Reconstrução total da cavidade orbital - por estágio

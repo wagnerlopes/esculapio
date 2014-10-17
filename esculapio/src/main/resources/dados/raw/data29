@@ -1,0 +1,91 @@
+"","","","",31005330,Radioablação / termoablação de tumores hepáticos
+"","",43050344,43050344,31005357,Ressecção de cisto hepático com hepatectomia
+"",43050328,43050328,43050328,31005365,Ressecção de cisto hepático sem hepatectomia
+"",43050263,43050263,43050263,31005373,Ressecção de tumor de vesícula ou da via biliar com hepatectomia
+"",43050255,43050255,43050255,31005381,Ressecção de tumor de vesícula ou da via biliar sem hepatectomia
+43050107,43050107,43050107,43050107,31005390,Segmentectomia hepática
+"",43050280,43050280,43050280,31005403,Sequestrectomia hepática
+"",43050301,43050301,43050301,31005420,Tratamento cirúrgico de estenose cicatricial das vias biliares
+43050115,43050115,43050115,43050115,31005438,Trissegmentectomias
+43050166,43050166,43050166,43050166,31005446,Coledocotomia ou coledocostomia com colecistectomia
+53010230,"","","",31005454,Abscesso hepático - drenagem cirúrgica por videolaparoscopia
+53010248,"","","",31005462,Alcoolização percutânea dirigida de tumor hepático por videolaparoscopia
+"","","","",31005470,Colecistectomia com colangiografia por videolaparoscopia
+"","","","",31005489,Colecistectomia com fístula biliodigestiva por videolaparoscopia
+"","","","",31005497,Colecistectomia sem colangiografia por videolaparoscopia
+"","","","",31005500,Colecistojejunostomia por videolaparoscopia
+"","","","",31005519,Colecistostomia por videolaparoscopia
+"","","","",31005527,Colédoco ou hepático-jejunostomia por videolaparoscopia
+"","","","",31005535,Colédoco-duodenostomia por videolaparoscopia
+"","","","",31005543,Coledocotomia ou coledocostomia com colecistectomia por videolaparoscopia
+"","","","",31005551,Coledocotomia ou coledocostomia sem colecistectomia por videolaparoscopia
+"","","","",31005560,Desconexão ázigos - portal com esplenectomia por videolaparoscopia
+"","","","",31005578,Desconexão ázigos - portal sem esplenectomia por videolaparoscopia
+"","","","",31005586,Enucleação de metástase hepáticas por videolaparoscopia
+"","","","",31005594,Hepatorrafia complexa com lesão de estruturas vasculares biliares por videolaparoscopia
+"","","","",31005608,Hepatorrafia por videolaparoscopia
+"","","","",31005616,Lobectomia hepática direita por videolaparoscopia
+"","","","",31005624,Lobectomia hepática esquerda por videolaparoscopia
+"","","","",31005632,Punção hepática para drenagem de abcessos por videolaparoscopia
+"","","","",31005640,Radioablação / termoablação de tumores hepáticos por videolaparoscopia
+"","","","",31005659,Ressecção de cisto hepático com hepatectomia por videolaparoscopia
+"","","","",31005667,Ressecção de cisto hepático sem hepatectomia por videolaparoscopia
+"","","","",31005675,Biópsia hepática por videolaparoscopia
+"","",43060102,43060102,31006019,Biópsia de pâncreas por laparotomia
+"","",43060099,43060099,31006027,Biópsia de pâncreas por punção dirigida
+"","",43060080,43060080,31006035,Enucleação de tumores pancreáticos
+53020103,53030338,53030338,53030338,31006043,Hipoglicemia - tratamento cirúrgico (pancreatotomia parcial ou total)
+43060048,43060048,43060048,43060048,31006051,Pancreatectomia corpo caudal com preservação do baço
+43060056,43060056,43060056,43060056,31006060,Pancreatectomia parcial ou sequestrectomia
+43060021,43060021,43060021,43060021,31006078,Pancreato-duodenectomia com linfadenectomia
+43060030,43060030,43060030,43060030,31006086,Pancreato-enterostomia
+43060064,43060064,43060064,43060064,31006094,Pancreatorrafia
+"","","","",31006108,Pseudocisto pâncreas - drenagem externa (qualquer técnica)
+"",53030486,53030486,53030486,31006108,Pseudocisto pâncreas - drenagem externa (qualquer técnica)
+"",53030494,53030494,53030494,31006116,Pseudocisto pâncreas - drenagem interna (qualquer técnica)
+43060013,43060013,43060013,43060013,31006124,Cisto pancreático - cistojejunoanastomose - tratamento cirúrgico
+43060013,43060013,43060013,43060013,31006132,Cisto pancreático - gastroanastomose - tratamento cirúrgico
+"","","","",31006159,Biópsia de pâncreas por videolaparoscopia
+"","","","",31006167,Enucleação de tumores pancreáticos por videolaparoscopia
+"","","","",31006175,Pseudocisto pâncreas - drenagem externa por videolaparoscopia
+"","","","",31006183,Pseudocisto pâncreas - drenagem interna por videolaparoscopia
+43070019,43070019,43070019,43070019,31007015,Biópsia esplênica
+"","",43070043,43070043,31007023,Esplenectomia parcial
+43070035,43070035,43070035,43070035,31007031,Esplenectomia total
+43070027,43070027,43070027,43070027,31007040,Esplenorrafia
+"","","","",31007058,Esplenectomia parcial por videolaparoscopia
+"","","","",31007066,Esplenectomia total por videolaparoscopia
+"","","","",31007074,Esplenorrafia por videolaparoscopia
+15010015,15010015,15010015,15010015,31008011,Diálise peritoneal intermitente - agudo ou crônico (por sessão)
+15020010,15020010,15020010,15020010,31008011,Diálise peritoneal intermitente - agudo ou crônico (por sessão)
+15020045,15020045,15020045,15020045,31008020,Diálise peritoneal ambulatorial contínua (CAPD) 9 dias - treinamento
+15020029,15020029,15020029,15020029,31008038,Diálise peritoneal ambulatorial contínua (CAPD) por mês/paciente
+15020053,15020053,15020053,15020053,31008038,Diálise peritoneal ambulatorial contínua (CAPD) por mês/paciente
+"","","",15010155,31008046,Diálise peritoneal automática (APD) - tratamento (agudo ou crônico)
+"","",43080294,43080294,31008054,Epiploplastia
+"","","",15010171,31008062,Implante de cateter peritoneal
+15020061,15020061,15020061,15020061,31008070,Instalação de cateter Tenckhoff
+15020070,15020070,15020070,15020070,31008097,Retirada de cateter Tenckhoff
+"","","","",31008100,Epiploplastia por videolaparoscopia
+"","","","",31008119,Diálise peritoneal automática por mês (agudo ou crônico)
+"",53030010,53030010,53030010,31009018,Abscesso perineal - drenagem cirúrgica
+43080014,43080014,43080014,43080014,31009026,Biópsia de parede abdominal
+54010160,54010160,"","",31009042,Cisto sacro-coccígeo - tratamento cirúrgico
+49030256,49030256,49030256,49030256,31009042,Cisto sacro-coccígeo - tratamento cirúrgico
+54010179,54010179,"",57040010,31009042,Cisto sacro-coccígeo - tratamento cirúrgico
+54140030,54140030,54140030,54140030,31009042,Cisto sacro-coccígeo - tratamento cirúrgico
+43080022,43080022,43080022,43080022,31009042,Cisto sacro-coccígeo - tratamento cirúrgico
+43080030,43080030,43080030,43080030,31009050,Diástase dos retos-abdominais - tratamento cirúrgico
+"","",53070097,53070097,31009069,Hérnia inguinal encarcerada em RN ou lactente
+53020090,53070020,53070020,53070020,31009069,Hérnia inguinal encarcerada em RN ou lactente
+43080049,43080049,43080049,43080049,31009077,Herniorrafia com ressecção intestinal - estrangulada
+43080065,43080065,43080065,43080065,31009085,Herniorrafia crural - unilateral
+43080103,43080103,43080103,43080103,31009093,Herniorrafia epigástrica
+43080111,43080111,43080111,43080111,31009107,Herniorrafia incisional
+43080120,43080120,43080120,43080120,31009115,Herniorrafia inguinal - unilateral
+"","",53070097,53070097,31009123,Herniorrafia inguinal no RN ou lactente
+43080146,43080146,43080146,43080146,31009131,Herniorrafia lombar
+43080154,43080154,43080154,43080154,31009140,Herniorrafia recidivante
+43080057,43080057,43080057,43080057,31009158,Herniorrafia sem ressecção intestinal encarcerada
+43080162,43080162,43080162,43080162,31009166,Herniorrafia umbilical
+"","","","",31009174,"Laparotomia exploradora, ou para biópsia, ou para drenagem de abscesso, ou para liberação de bridas em vigência de oclusão"

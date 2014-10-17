@@ -1,0 +1,91 @@
+33010242,33010242,"","",40901386,Doppler colorido de órgão ou estrutura isolada
+"","",33010323,33010323,40901386,Doppler colorido de órgão ou estrutura isolada
+"","",39010180,39010180,40901386,Doppler colorido de órgão ou estrutura isolada
+33010242,33010242,"","",40901394,Doppler colorido de aorta e artérias renais
+33010242,33010242,"","",40901408,Doppler colorido de aorta e ilíacas
+33010242,33010242,"","",40901416,Doppler colorido de artérias viscerais (mesentéricas superior e inferior e tronco celíaco)
+33010242,33010242,"","",40901424,Doppler colorido de hemangioma
+33010242,33010242,"","",40901432,Doppler colorido de veia cava superior ou inferior
+33010242,33010242,"","",40901440,Doppler colorido peniano com fármaco-indução
+"","",56010257,56010257,40901440,Doppler colorido peniano com fármaco-indução
+33010242,33010242,"","",40901459,Doppler colorido arterial de membro superior - unilateral
+33010242,33010242,"","",40901467,Doppler colorido venoso de membro superior - unilateral
+33010242,33010242,"","",40901475,Doppler colorido arterial de membro inferior - unilateral
+33010242,33010242,"","",40901483,Doppler colorido venoso de membro inferior - unilateral
+"","","","",40901491,Tridimensional - acrescentar ao exame de base
+"","",33010269,33010269,40901505,Obstétrica: perfil biofísico fetal
+45010110,45010110,45010110,45010110,40901505,Obstétrica: perfil biofísico fetal
+33010242,33010242,"","",40901513,Doppler colorido de artérias penianas (sem fármaco indução)
+"","",56010257,56010257,40901513,Doppler colorido de artérias penianas (sem fármaco indução)
+"","",50010344,50010344,40901521,Ultra-sonografia biomicroscópica - monocular
+"",50010220,50010220,50010220,40901530,Ultra-sonografia diagnóstica - monocular
+"","","","",40901548,Doppler convencional órgão/estrutura isolada
+"","","","",40901556,Ecocardiografia fetal gestação múltipla
+"","","","",40901564,Ecoencefalograma
+"","","","",40901572,Ultrassom com doppler abdôme total e pelve feminino
+"","",33010307,33010307,40902013,Obstétrica: com amniocentese
+45010129,45010129,45010129,45010129,40902013,Obstétrica: com amniocentese
+45010013,45010013,45010013,45010013,40902013,Obstétrica: com amniocentese
+"","","","",40902021,Obstétrica 1º trimestre com punção: biópsia ou aspirativa
+"","",33010315,33010315,40902030,Próstata transretal com biópsia - até 8 fragmentos
+"","",33010315,33010315,40902048,Próstata transretal com biópsia - mais de 8 fragmentos
+"","","","",40902056,Intra-operatório
+"","","","",40902064,Doppler colorido intra-operatório
+"",20010222,20010222,20010222,40902072,Ecodopplercardiograma transoperatório (transesofágico ou epicárdico) (1ª hora)
+"",20010230,20010230,20010230,40902072,Ecodopplercardiograma transoperatório (transesofágico ou epicárdico) (1ª hora)
+"",20010222,20010222,20010222,40902080,Ecodopplercardiograma transoperatório (transesofágico ou epicárdico) - por hora suplementar
+"",20010230,20010230,20010230,40902080,Ecodopplercardiograma transoperatório (transesofágico ou epicárdico) - por hora suplementar
+"","","","",40902110,Drenagem percutânea orientada por US (acrescentar o exame de base)
+"","","","",40902129,"Redução de invaginação intestinal por enema, orientada por US (acrescentar o exame de base)"
+34010068,34010068,34010068,34010068,41001010,Crânio ou sela túrsica ou órbitas
+34010092,34010092,34010092,34010092,41001028,Mastóides ou orelhas
+34010084,34010084,34010084,34010084,41001036,Face ou seios da face
+34010084,34010084,34010084,34010084,41001044,Articulações temporomandibulares
+"","","","",41001052,Dental (dentascan)
+34010114,34010114,34010114,34010114,41001060,"Pescoço (partes moles, laringe, tireóide e faringe)"
+34010130,34010130,34010130,34010130,41001079,Tórax
+"","","","",41001087,Coração - para avaliação do escore de cálcio coronariano
+34010017,34010017,34010017,34010017,41001095,"Abdome total (abdome superior, pelve e retroperitônio)"
+"",34010106,34010106,34010106,41001095,"Abdome total (abdome superior, pelve e retroperitônio)"
+34010017,34010017,34010017,34010017,41001109,Abdome superior
+34010106,34010106,34010106,34010106,41001117,Pelve ou bacia
+"",34010017,34010017,34010017,41001117,Pelve ou bacia
+34010033,34010033,34010033,34010033,41001125,Coluna cervical ou dorsal ou lombar (até 3 segmentos)
+34010041,34010041,34010041,34010041,41001133,Coluna - segmento adicional
+34010025,34010025,34010025,34010025,41001141,Articulação (esternoclavicular ou ombro ou cotovelo ou punho ou sacroilíacas ou coxofemoral ou joelho ou pé) - unilateral
+34010122,34010122,34010122,34010122,41001150,Segmentos apendiculares (braço ou antebraço ou mão ou coxa ou perna ou pé)
+"","","","",41001168,Angiotomografia (crânio ou pescoço ou tórax ou abdome superior ou pelve) - arterial ou venosa
+"","","","",41001176,Angiotomografia de aorta torácica
+"","","","",41001184,Angiotomografia de aorta abdominal
+"","","","",41001192,Escanometria digital
+"","","","",41001206,Reconstrução tridimensional - acrescentar ao exame de base
+"","","","",41001214,Endoscopia virtual por TC - acrescentar ao exame de base
+"","","","",41001222,TC para PET dedicado oncológico
+34010050,34010050,34010050,34010050,41002016,Tomomielografia (até 3 segmentos) - acrescentar a TC da coluna e incluir a punção
+"","","","",41002024,Punção aspirativa orientada por TC (acrescentar o exame de base)
+"","","","",41002032,Drenagem percutânea orientada por TC (acrescentar o exame de base)
+"",36010014,36010014,36010014,41101014,Crânio (encéfalo)
+"","","","",41101022,Sela túrcica (hipófise)
+"","","","",41101030,Base do crânio
+"","","","",41101049,Estudo funcional (mapeamento cortical por RM)
+"","","","",41101057,Perfusão cerebral por RM
+"","","","",41101065,Espectroscopia por RM
+"","","","",41101073,Órbita bilateral
+"","","","",41101081,Ossos temporais bilateral
+"","","","",41101090,Face (inclui seios da face)
+"",36010111,36010111,36010111,41101103,Articulação temporomandibular (bilateral)
+"",36010057,36010057,36010057,41101111,"Pescoço (nasofaringe, orofaringe, laringe, traquéia, tireóide, paratireóide)"
+"",36010073,36010073,36010073,41101120,"Tórax (mediastino, pulmão, parede torácica)"
+36010081,36010081,36010081,36010081,41101138,Coração - morfológico e funcional
+"","","","",41101146,Coração - morfológico e funcional + perfusão + estresse
+"","","","",41101154,Coração - morfológico e funcional + perfusão + viabilidade miocárdica
+"","","","",41101162,Mama (unilateral)
+"",36010090,36010090,36010090,41101170,"Abdome superior (fígado, pâncreas, baço, rins, supra-renais, retroperitônio)"
+"",36010103,36010103,36010103,41101189,Pelve (não inclui articulações coxofemorais)
+"","","","",41101197,Fetal
+"","","","",41101200,Pênis
+"","","","",41101219,Bolsa escrotal
+"",36010022,36010022,36010022,41101227,Coluna cervical ou dorsal ou lombar
+36010030,36010030,36010030,36010030,41101227,Coluna cervical ou dorsal ou lombar
+36010049,36010049,36010049,36010049,41101227,Coluna cervical ou dorsal ou lombar
+"","","","",41101235,Fluxo liquórico (como complementar)

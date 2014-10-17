@@ -1,0 +1,91 @@
+"",36010065,36010065,36010065,41101243,Plexo braquial (desfiladeiro torácico) ou lombossacral (não inclui coluna cervical ou lombar)
+36010170,36010170,36010170,36010170,41101251,Membro superior unilateral (não inclui mão e articulações)
+"","","","",41101260,Mão (não inclui punho)
+"",36010103,36010103,36010103,41101278,Bacia (articulações sacroilíacas)
+34010122,"","","",41101286,Coxa (unilateral)
+36010170,36010170,36010170,36010170,41101294,Perna (unilateral)
+"",36010162,36010162,36010162,41101308,Pé (antepé) - não inclui tornozelo
+36010120,36010120,36010120,36010120,41101316,Articular (por articulação)
+36010138,36010138,36010138,3610138,41101316,Articular (por articulação)
+36010146,36010146,36010146,36010146,41101316,Articular (por articulação)
+36010154,36010154,36010154,36010154,41101316,Articular (por articulação)
+"",36010189,36010189,36010189,41101324,Angio-RM (crânio ou pescoço ou tórax ou abdome superior ou pelve) - arterial ou venosa
+"","","","",41101332,Angio-RM de aorta torácica
+"","","","",41101340,Angio-RM de aorta abdominal
+"","","","",41101359,Hidro-RM (colângio-RM ou uro-RM ou mielo-RM ou sialo-RM ou cistografia por RM)
+"","","","",41101367,Endocavitária (endorretal ou endovaginal)
+"","","","",41101375,Endoscopia virtual por RM - acrescentar ao exame de base
+"","","","",41101383,Reconstrução tridimensional - acrescentar ao exame de base
+"","","","",41101391,RM artérias membros inferiores
+"","","","",41102010,Artro-RM (incluir a punção articular) - por articulação
+"","","","",41203011,Betaterapia (placa de estrôncio) - por campo
+35010029,35010029,35010029,35010029,41203011,Betaterapia (placa de estrôncio) - por campo
+50020013,50020013,50020013,50020013,41203011,Betaterapia (placa de estrôncio) - por campo
+"","",35020091,35020091,41203020,"Radiocirurgia (RTC) - nível 1, lesão única e/ou um isocentro - por tratamento"
+"","",35020091,35020091,41203038,"Radiocirurgia (RTC) - nível 2, duas lesões e/ou dois a quatro isocentros - por tratamento"
+"","",35020091,35020091,41203046,"Radiocirurgia (RTC) - nível 3, três lesões e/ou de mais de quatro isocentros - por tratamento "
+"","","","",41203054,Radioterapia  com Modulação da Intensidade do Feixe (IMRT) - por tratamento
+"","","","",41203062,Radioterapia Conformada Tridimensional (RCT-3D)  com Acelerador Linear - por tratamento
+35010010,35010010,35010010,35010010,41203070,Radioterapia Convencional de Megavoltagem com Acelerador Linear com Fótons e Elétrons - por campo 
+35010010,35010010,35010010,35010010,41203070,Radioterapia Convencional de Megavoltagem com Acelerador Linear com Fótons e Elétrons - por campo 
+35010010,35010010,35010010,35010010,41203070,Radioterapia Convencional de Megavoltagem com Acelerador Linear com Fótons e Elétrons - por campo 
+35010037,35010037,"","",41203070,Radioterapia Convencional de Megavoltagem com Acelerador Linear com Fótons e Elétrons - por campo 
+35010061,35010061,"","",41203070,Radioterapia Convencional de Megavoltagem com Acelerador Linear com Fótons e Elétrons - por campo 
+35010010,35010010,35010010,35010010,41203089,Radioterapia Convencional de Megavoltagem com Acelerador Linear só com Fótons - por campo 
+35010010,35010010,35010010,35010010,41203089,Radioterapia Convencional de Megavoltagem com Acelerador Linear só com Fótons - por campo 
+35010010,35010010,35010010,35010010,41203089,Radioterapia Convencional de Megavoltagem com Acelerador Linear só com Fótons - por campo 
+35010037,35010037,"","",41203089,Radioterapia Convencional de Megavoltagem com Acelerador Linear só com Fótons - por campo 
+35010061,35010061,"","",41203089,Radioterapia Convencional de Megavoltagem com Acelerador Linear só com Fótons - por campo 
+35010010,35010010,35010010,35010010,41203097,Radioterapia Convencional de Megavoltagem com Unidade de Telecobalto - por campo 
+35010053,35010053,"","",41203097,Radioterapia Convencional de Megavoltagem com Unidade de Telecobalto - por campo 
+"","","","",41203100,Radioterapia de Corpo Inteiro - por tratamento
+35010096,35010096,35010096,35010096,41203119,Radioterapia de Meio Corpo (HBI) - por dia de tratamento
+"","","","",41203127,Radioterapia de Pele Total (TSI) - por tratamento
+"","","","",41203135,Radioterapia Estereotática - 1º dia de tratamento
+"","","","",41203143,Radioterapia Estereotática - por dia subsequente
+35010070,35010070,35010070,35010070,41203151,Radioterapia Externa de Ortovoltagem (Roentgenterapia) - por campo
+"","","","",41203160,Radioterapia Intra-operatória (IORT) - por tratamento
+"","","","",41203178,Radioterapia Rotatória com acelerador linear com fótons e elétrons - por volume tratado e por dia
+"","","","",41203186,Radioterapia Rotatória com acelerador linear só com fótons - por volume tratado e por dia
+"","","","",41203186,Radioterapia Rotatória com acelerador linear só com fótons - por volume tratado e por dia
+"","","","",41203186,Radioterapia Rotatória com acelerador linear só com fótons - por volume tratado e por dia
+"","","","",41203194,Radioterapia Rotatória com unidade de cobalto - por volume tratado e por dia
+35010088,35010088,35010088,35010088,41204018,Colimação individual - 1 por incidência planejada
+35010045,35010045,35010045,35010045,41204026,Filme de verificação (cheque-filme) - 1 por incidência planejada/semana - filme a parte
+"","","","",41204034,Planejamento de tratamento computadorizado - 1 por volume tratado
+"","","","",41204042,Planejamento de tratamento computadorizado tridimensional - 1 por volume tratado
+"","",35010118,35010118,41204050,Planejamento de tratamento simples (não computadorizado) - 1 por volume tratado
+"","","","",41204069,Simulação de tratamento complexa (com tomografia e com contraste) - 1 por volume tratado
+"","","","",41204069,Simulação de tratamento complexa (com tomografia e com contraste) - 1 por volume tratado
+"","","","",41204069,Simulação de tratamento complexa (com tomografia e com contraste) - 1 por volume tratado
+"","","","",41204077,Simulação de tratamento intermediária (com tomografia) - 1 por volume tratado
+"","","","",41204077,Simulação de tratamento intermediária (com tomografia) - 1 por volume tratado
+"","","","",41204077,Simulação de tratamento intermediária (com tomografia) - 1 por volume tratado
+"","",35010100,35010100,41204085,Simulação de tratamento simples (sem tomografia computadorizada) - 1 por volume tratado
+"","","","",41204093,Sistemas de imobilização - cabeça (máscaras) ou membros - 1 por tratamento
+"","","","",41204107,"Sistemas de imobilização - tórax, abdome ou pélvis - 1 por tratamento"
+"","",35020083,35020083,41205014,Braquiterapia endoluminal de alta taxa de dose (BATD) - por inserção
+"","","","",41205022,Braquiterapia endoluminal de baixa taxa de dose (BBTD) - por inserção
+"","",35020083,35020083,41205030,Braquiterapia intersticial de alta taxa de dose (BATD) - por inserção 
+"","","","",41205049,Braquiterapia intersticial de baixa taxa de dose (BBTD) - com Césio - por inserção
+"","","","",41205057,Braquiterapia intersticial de baixa taxa de dose (BBTD) permanente de próstata - por tratamento 
+35020040,35020040,35020040,35020040,41205065,"Braquiterapia intersticial de baixa taxa de dose (BBTD) com ouro, irídio ou iodo - por tratamento"
+35020059,35020059,35020059,35020059,41205065,"Braquiterapia intersticial de baixa taxa de dose (BBTD) com ouro, irídio ou iodo - por tratamento"
+"","",35020083,35020083,41205073,Braquiterapia intracavitária de alta taxa de dose (BATD) - por inserção
+"","","","",41205081,Braquiterapia intracavitária de baixa taxa de dose (BBTD) com Césio - por inserção
+35020075,35020075,35020075,35020075,41205090,Braquiterapia oftálmica de baixa taxa de dose (BBTD) - por inserção
+"","","","",41205103,Braquiterapia por moldagem ou contato de baixa taxa de dose (BBTD) com Césio - por inserção
+"","",35020105,35020105,41205111,"Braquiterapia por moldagem ou contato de baixa taxa de dose (BBTD) com ouro, irídio ou iodo - por tratamento"
+35020040,35020040,35020040,35020040,41205111,"Braquiterapia por moldagem ou contato de baixa taxa de dose (BBTD) com ouro, irídio ou iodo - por tratamento"
+35020067,35020067,35020067,35020067,41205111,"Braquiterapia por moldagem ou contato de baixa taxa de dose (BBTD) com ouro, irídio ou iodo - por tratamento"
+"","","","",41205120,"Braquiterapia por moldagem ou contato, de alta taxa de dose (BATD) - por inserção"
+35010045,35010045,35010045,35010045,41206010,Filme de verificação (cheque-filme) de braquiterapia - 2 por inserção - filme à parte 
+"","",50140078,50140078,41206029,Colocação ou retirada da placa oftálmica - 1 colocação e 1 retirada por tratamento
+"","","","",41206037,Colocação ou retirada dos cateteres - 1 colocação e 1 retirada por inserção
+"","","","",41206045,Planejamento computadorizado de braquiterapia - 1 por inserção
+"","","","",41206045,Planejamento computadorizado de braquiterapia - 1 por inserção
+"","","","",41206045,Planejamento computadorizado de braquiterapia - 1 por inserção
+"","","","",41206053,Planejamento computadorizado tridimensional de braquiterapia - 1 por inserção
+"","",35010118,35010118,41206061,Planejamento não-computadorizado de braquiterapia - 1 por inserção
+"","","","",41206070,Simulação de braquiterapia - 1 por inserção
+50010131,50010131,50010131,50010131,41301013,Angiofluoresceinografia - monocular

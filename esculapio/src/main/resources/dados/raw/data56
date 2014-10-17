@@ -1,0 +1,91 @@
+27020088,27020088,27020088,27020088,40402061,Unidade de concentrado de plaquetas por aférese
+27020045,27020045,27020045,27020045,40402070,Unidade de concentrado de plaquetas randômicas
+27020053,27020053,27020053,27020053,40402088,Unidade de crioprecipitado de fator anti-hemofílico
+27020061,27020061,27020061,27020061,40402096,Unidade de plasma
+27020070,27020070,27020070,27020070,40402100,Unidade de sangue total
+"","","","",40402118,Deleucotização de unidade de concentrado de hemácias - por unidade
+"","","","",40402126,Deleucotização de unidade de concentrado de plaquetas - até 6 unidades
+27040330,27040330,27040330,27040330,40402134,Irradiação de componentes hemoterápicos
+"","","","",40402142,Deleucotização de unidade de concentrado de plaquetas - entre 7 e 12 unidades
+"","","","",40402150,Unidade de concentrado de granulócitos
+"","","","",40402169,Unidade de concentrado de plaquetas (dupla centrifugação)
+"","",27030113,27030113,40403017,Acompanhamento  hospitalar/dia  do  transplante   de  medula   óssea  p/   médico  hematologista  e/ou hemoterapeuta
+"","",27040593,27040593,40403025,Anticorpos eritrocitários naturais e imunes - titulagem
+"","",27030105,27030105,40403033,Aplicação de medula óssea ou células tronco
+"","",27030091,27030091,40403041,Coleta de células tronco de sangue de cordão umbilical p/ transplante de medula óssea
+"","",27030083,27030083,40403050,Coleta de células tronco por processadora automática p/ transplante de medula óssea
+28040880,28040880,28040880,"",40403068,Coleta de biópsia de medula óssea por agulha
+"",27040470,"","",40403068,Coleta de biópsia de medula óssea por agulha
+"","",27030067,27030067,40403068,Coleta de biópsia de medula óssea por agulha
+"","",27030075,27030075,40403076,Coleta de medula óssea para transplante
+"","",27040771,27040771,40403084,Determinação de células CD34 CD 45 positivas - Citômetro de Fluxo
+"","",27040895,27040895,40403092,Determinação de conteúdo de DNA - Citômetro de Fluxo
+27040143,27040143,27040143,27040143,40403106,Eletroforese de hemoglobina por componente hemoterápico
+27040135,27040135,27040135,27040135,40403114,Eletroforese de hemoglobina por unidade de sangue total
+27030016,27030016,27030016,27030016,40403122,Exsanguíneo  transfusão
+"","",27040585,27040585,40403130,Fenotipagem de outros sistemas eritrocitários - por fenótipo
+"","",27040631,27040631,40403149,Fenotipagem de outros sistemas eritrocitários - por fenótipo - gel teste
+"","",27040623,27040623,40403157,"Fenotipagem do sistema RH-HR (D, C, E, C E C) gel teste"
+28040325,28040325,27040577,27040577,40403165,"Fenotipagem do sistema RH-HR (D, C, E, C, E)"
+"","",28041178,27040577,40403165,"Fenotipagem do sistema RH-HR (D, C, E, C, E)"
+27040151,27040151,27040151,27040151,40403173,Grupo sanguíneo ABO e RH
+"","",27040526,27040526,40403181,Grupo sanguíneo ABO e RH - gel teste
+"","","","",40403190,Identificação de anticorpos séricos irregulares antieritrocitários - método de eluição
+"","",27040615,27040615,40403203,Identificação de anticorpos séricos irregulares antieritrocitários - painel de hemácias enzimático
+28040074,28040074,28040074,28040074,40403211,Identificação de anticorpos séricos irregulares antieritrocitários c/ painel de hemácias
+"","",27040550,27040550,40403211,Identificação de anticorpos séricos irregulares antieritrocitários c/ painel de hemácias
+"","",27040569,27040569,40403220,Identificação de anticorpos séricos irregulares antieritrocitários c/ painel de hemácias tratadas por enzimas
+"","","","",40403238,Identificação de anticorpos séricos irregulares antieritrocitários com painel de hemácias - gel liss
+"","",27040887,27040887,40403246,Imunofenotipagem de subpopulações linfocitárias - Citômetro de Fluxo
+"","",27040879,27040879,40403246,Imunofenotipagem de subpopulações linfocitárias - Citômetro de Fluxo
+"","",28041070,28041070,40403246,Imunofenotipagem de subpopulações linfocitárias - Citômetro de Fluxo
+"","",27040852,27040852,40403254,Imunofenotipagem para classificação de leucemias - Citômetro de Fluxo
+"","",27040860,27040860,40403254,Imunofenotipagem para classificação de leucemias - Citômetro de Fluxo
+"","",28041062,28041062,40403254,Imunofenotipagem para classificação de leucemias - Citômetro de Fluxo
+"","","","",40403262,NAT/HCV por componente hemoterápico
+"","","","",40403270,NAT/HCV por unidade de sangue total
+"","","","",40403289,NAT/HIV por componente hemoterápico
+"","","","",40403297,NAT/HIV por unidade de sangue total
+27030032,27030032,27030032,27030032,40403300,Operação de processadora automática de sangue em aférese
+27030040,27030040,27030040,27030040,40403319,Operação de processadora automática de sangue em autotransfusão intra-operatória
+"","",27040658,27040658,40403327,"Pesquisa de anticorpos séricos antieritrocitários, anti-A e/ou anti-B - gel teste"
+"","",27040640,27040640,40403335,"Pesquisa de anticorpos séricos antieritrocitários, anti-A e/ou anti-B"
+27040194,27040194,27040194,27040194,40403343,Pesquisa de anticorpos séricos irregulares antieritrocitários
+"","",27040607,27040607,40403351,Pesquisa de anticorpos séricos irregulares antieritrocitários - gel teste
+"","",27040534,27040534,40403360,Pesquisa de anticorpos séricos irregulares antieritrocitários - método de eluição
+"","",27040542,27040542,40403378,Pesquisa de anticorpos séricos irregulares antieritrocitários a frio
+"","",27040518,27040518,40403386,Pesquisa de hemoglobina S por componente hemoterápico - gel teste
+"","",27040500,27040500,40403394,Pesquisa de hemoglobina S por unidade de sangue total - gel teste
+27040240,27040240,27040240,27040240,40403408,Prova de compatibilidade pré-transfusional completa
+28040627,28040627,28040627,28040627,40403408,Prova de compatibilidade pré-transfusional completa
+"","",27040666,27040666,40403416,Prova de compatibilidade pré-transfusional completa - gel teste
+"",27040453,27040453,27040453,40403424,S. Anti-HTLV-I + HTLV-II (determinação conjunta) por componente hemoterápico
+"","",27040917,27040917,40403424,S. Anti-HTLV-I + HTLV-II (determinação conjunta) por componente hemoterápico
+"",27040445,27040445,27040445,40403432,S. Anti-HTLV-I + HTLV-II (determinação conjunta) por unidade de sangue total
+"","",27040917,27040917,40403432,S. Anti-HTLV-I + HTLV-II (determinação conjunta) por unidade de sangue total
+"",27040410,27040410,27040410,40403440,S. Chagas EIE por componente hemoterápico
+"",27040402,27040402,27040402,40403459,S. Chagas EIE por unidade de sangue total
+27040216,27040216,27040216,27040216,40403467,S. Hepatite B anti-HBC por componente hemoterápico
+27040208,27040208,27040208,27040208,40403475,S. Hepatite B anti-HBC por unidade de sangue total
+"",27040437,27040437,27040437,40403483,S. Hepatite C anti-HCV por componente hemoterápico
+"","",27040925,27040925,40403483,S. Hepatite C anti-HCV por componente hemoterápico
+"",27040429,27040429,27040429,40403491,S. Hepatite C anti-HCV por unidade de sangue total
+"","",27040925,27040925,40403491,S. Hepatite C anti-HCV por unidade de sangue total
+27040232,27040232,27040232,27040232,40403505,S. HIV - EIE por componente hemoterápico
+27040224,27040224,27040224,27040224,40403513,S. HIV - EIE por unidade de sangue total
+27040186,27040186,27040186,27040186,40403521,S. Malária - IFI por componente hemoterápico
+"","",27041085,27041085,40403521,S. Malária - IFI por componente hemoterápico
+27040178,27040178,27040178,27040178,40403530,S. Malária - IFI por unidade de sangue total
+"","",27041077,27041077,40403530,S. Malária - IFI por unidade de sangue total
+"","",27040682,27040682,40403548,S. Sífilis - EIE por componente hemoterápico
+"","",27040674,27040674,40403556,S. Sífilis - EIE por unidade de sangue total
+27040267,27040267,27040267,27040267,40403564,S. Sífilis FTA - ABS por componente hemoterápico
+27040259,27040259,27040259,27040259,40403572,S. Sífilis FTA - ABS por unidade de sangue total
+27040283,27040283,27040283,27040283,40403580,S. Sífilis HA por componente hemoterápico
+27040275,27040275,27040275,27040275,40403599,S. Sífilis HA por unidade de sangue total
+27040305,27040305,27040305,27040305,40403602,S. Sífilis VDRL por componente hemoterápico
+27040321,27040321,27040321,27040321,40403602,S. Sífilis VDRL por componente hemoterápico
+27040291,27040291,27040291,27040291,40403610,S. Sífilis VDRL por unidade de sangue total
+27040313,27040313,27040313,27040313,40403610,S. Sífilis VDRL por unidade de sangue total
+27040062,27040062,27040062,27040062,40403629,S.Chagas HA por componente hemoterápico
+27040100,27040100,27040100,27040100,40403629,S.Chagas HA por componente hemoterápico
