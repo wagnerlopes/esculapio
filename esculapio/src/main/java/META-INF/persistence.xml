@@ -2,30 +2,30 @@
 
 <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
 
-	<persistence-unit name="hospital">
+	<persistence-unit name="esculapio">
 
       <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 
-      <non-jta-data-source>java:comp/env/jdbc/hmasp</non-jta-data-source>
+      <non-jta-data-source>java:comp/env/jdbc/sermil</non-jta-data-source>
 	
-      <class>hospital.model.Beneficiario</class>
-      <class>hospital.model.Contrato</class>
-      <class>hospital.model.Dth</class>
-      <class>hospital.model.Especialidade</class>
-      <class>hospital.model.GuiaEncaminhamento</class>
-      <class>hospital.model.GuiaOcsPm</class>
-      <class>hospital.model.Ocs</class>
-      <class>hospital.model.OcsPm</class>
-      <class>hospital.model.ProcedimentoMedico</class>
-      <class>hospital.model.Profissional</class>
-      <class>hospital.model.Protocolo</class>
-      <class>hospital.model.TipoAcomodacao</class>
-      <class>hospital.model.TipoAtendimento</class>
-      <class>hospital.model.TipoConsulta</class>
-      <class>hospital.model.TipoGuiaConsulta</class>
-      <class>hospital.model.TipoTermo</class>
-      <class>hospital.model.TissTabela</class>
-      <class>hospital.model.TissProcedimento</class>
+      <class>br.com.wagnersoft.esculapio.model.Beneficiario</class>
+      <class>br.com.wagnersoft.esculapio.model.Contrato</class>
+      <class>br.com.wagnersoft.esculapio.model.Dth</class>
+      <class>br.com.wagnersoft.esculapio.model.Especialidade</class>
+      <class>br.com.wagnersoft.esculapio.model.GuiaEncaminhamento</class>
+      <class>br.com.wagnersoft.esculapio.model.GuiaOcsPm</class>
+      <class>br.com.wagnersoft.esculapio.model.Ocs</class>
+      <class>br.com.wagnersoft.esculapio.model.OcsPm</class>
+      <class>br.com.wagnersoft.esculapio.model.ProcedimentoMedico</class>
+      <class>br.com.wagnersoft.esculapio.model.Profissional</class>
+      <class>br.com.wagnersoft.esculapio.model.Protocolo</class>
+      <class>br.com.wagnersoft.esculapio.model.TipoAcomodacao</class>
+      <class>br.com.wagnersoft.esculapio.model.TipoAtendimento</class>
+      <class>br.com.wagnersoft.esculapio.model.TipoConsulta</class>
+      <class>br.com.wagnersoft.esculapio.model.TipoGuiaConsulta</class>
+      <class>br.com.wagnersoft.esculapio.model.TipoTermo</class>
+      <class>br.com.wagnersoft.esculapio.model.TissTabela</class>
+      <class>br.com.wagnersoft.esculapio.model.TissProcedimento</class>
 
       <exclude-unlisted-classes>true</exclude-unlisted-classes>
 

@@ -1,6 +1,7 @@
 package br.com.wagnersoft.esculapio.model;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.Entity;
@@ -105,6 +106,19 @@ public class Ocs implements Comparable<Ocs>, Serializable {
     return true;
   }
 
+  public void addContrato(final Contrato c) throws Exception {
+    if (this.getContratos() == null) {
+      this.setContratos(new ArrayList<Contrato>(1));
+    }
+    if (this.getContratos().contains(c)) {
+      throw new Exception("Contrato já existe");
+    }
+    this.getContratos().add(c);
+    if (c.getOcs() != this) {
+      c.setOcs(this);
+    }
+  }
+  
   public Integer getId() {
 		return this.id;
 	}
@@ -164,12 +178,6 @@ public class Ocs implements Comparable<Ocs>, Serializable {
 
 	public void setContratos(List<Contrato> contratos) {
 		this.contratos = contratos;
-	}
-
-	public Contrato addContrato(Contrato contrato) {
-		getContratos().add(contrato);
-		contrato.setOcs(this);
-		return contrato;
 	}
 
 	public Contrato removeContrato(Contrato contrato) {

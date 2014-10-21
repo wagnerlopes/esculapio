@@ -6,20 +6,20 @@ import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
+import javax.persistence.TableGenerator;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 import org.eclipse.persistence.annotations.IdValidation;
 import org.eclipse.persistence.annotations.PrimaryKey;
 
-/**
- * The persistent class for the contratos database table.
- */
 @Entity
 @Table(name="contratos")
 @NamedQuery(name="Contrato.findByOcs", query="SELECT c FROM Contrato c WHERE c.ocs.id = ?1")
@@ -29,6 +29,9 @@ public class Contrato implements Serializable {
   private static final long serialVersionUID = 1L;
 
 	@Id
+  //@GeneratedValue(strategy=GenerationType.IDENTITY)
+  @GeneratedValue(strategy=GenerationType.TABLE, generator="CONTRATOS")
+  @TableGenerator(name="CONTRATOS", allocationSize=1)
 	private Integer id;
 
 	@Temporal(TemporalType.DATE)

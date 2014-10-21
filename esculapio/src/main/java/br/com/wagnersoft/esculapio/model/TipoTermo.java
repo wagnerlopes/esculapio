@@ -6,28 +6,26 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- * The persistent class for the tipo_termo database table.
- */
 @Entity
 @Table(name="tipo_termo")
 public class TipoTermo implements Serializable {
-	private static final long serialVersionUID = 1L;
 
-	@Id
-	private int codigo;
+  private static final long serialVersionUID = 1L;
 
-	private String descricao;
+  @Id
+  private int codigo;
 
-	public TipoTermo() {
-	}
+  private String descricao;
 
-	@Override
-    public String toString() {
-      return this.getDescricao() == null ? "TIPO" : new StringBuilder(Integer.toString(this.getCodigo())).append(" - ").append(this.getDescricao()).toString();
-    }
-	
-	public int getCodigo() {
+  public TipoTermo() {
+  }
+
+  @Override
+  public String toString() {
+    return this.getDescricao() == null ? "TIPO" : new StringBuilder(Integer.toString(this.getCodigo())).append(" - ").append(this.getDescricao()).toString();
+  }
+
+  public int getCodigo() {
     return codigo;
   }
 
@@ -36,11 +34,11 @@ public class TipoTermo implements Serializable {
   }
 
   public String getDescricao() {
-		return this.descricao;
-	}
+    return this.descricao;
+  }
 
-	public void setDescricao(String descricao) {
-		this.descricao = descricao;
-	}
+  public void setDescricao(String descricao) {
+    this.descricao = descricao;
+  }
 
 }

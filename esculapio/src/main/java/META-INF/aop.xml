@@ -7,6 +7,6 @@
                         -XmessageHandlerClass:org.springframework.aop.aspectj.AspectJWeaverMessageHandler
                         -Xset:weaveJavaxPackages=true" -->
    <weaver options="-Xset:weaveJavaxPackages=true">
-     <include within="hospital..*"/>
+     <include within="br.com.wagnersoft.esculapio..*"/>
    </weaver>
 </aspectj>

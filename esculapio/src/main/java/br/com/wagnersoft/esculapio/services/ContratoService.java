@@ -1,16 +1,18 @@
 package br.com.wagnersoft.esculapio.services;
 
-import br.com.wagnersoft.esculapio.dao.ContratoDao;
-import br.com.wagnersoft.esculapio.dao.OcsDao;
-import br.com.wagnersoft.esculapio.model.Contrato;
-import br.com.wagnersoft.esculapio.model.Ocs;
-
 import java.util.List;
 
 import javax.inject.Inject;
 import javax.inject.Named;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.transaction.annotation.Transactional;
+
+import br.com.wagnersoft.esculapio.dao.ContratoDao;
+import br.com.wagnersoft.esculapio.dao.OcsDao;
+import br.com.wagnersoft.esculapio.model.Contrato;
+import br.com.wagnersoft.esculapio.model.Ocs;
 
 /** Serviços de Contratos. (Tabela Contratos)
  * @author Abreu Lopes
@@ -20,28 +22,22 @@ import org.springframework.transaction.annotation.Transactional;
 @Named("contratoService")
 public class ContratoService {
 
+  protected static final Logger logger = LoggerFactory.getLogger(ContratoService.class);
+
   @Inject
   private OcsDao ocsDao;
 
   @Inject
   private ContratoDao contratoDao;
   
-  /** Construtor. */
   public ContratoService() {
+    logger.debug("ContratoService iniciado");
   }
 
-  /** Recuperar Contrato por Id.
-   * @return Contrato
-   */
   public Contrato recuperar(final Integer id) {
     return this.contratoDao.findById(id);
   }
   
-  /** Lista contratos do OCS.
-   * @param id Id do OCS
-   * @return Lista de contratos
-   * @throws Exception erro no processamento
-   */
   public List<Contrato> listarPorOcs(final Integer id) throws Exception {
     final List<Contrato> lista = this.ocsDao.findById(id).getContratos();
     if (lista == null || lista.isEmpty()) {
@@ -50,21 +46,10 @@ public class ContratoService {
     return lista;
   }
 
-  /** Salvar Contrato do OCS.
-   * @return Contrato
-   */
   @Transactional
   public void salvar(final Contrato contrato) throws Exception {
     final Ocs ocs = this.ocsDao.findById(contrato.getOcs().getId());
-    if (ocs.getContratos().contains(contrato)){
-      final Contrato c = ocs.getContratos().get(ocs.getContratos().indexOf(contrato));
-      c.setChValor(contrato.getChValor());
-      c.setFinalData(contrato.getFinalData());
-      c.setInicioData(contrato.getInicioData());
-      c.setTermoTipo(contrato.getTermoTipo());
-    } else {
-      ocs.addContrato(contrato);
-    }
+    ocs.addContrato(contrato);
     this.ocsDao.save(ocs);
   }
 
