@@ -17,21 +17,16 @@ import javax.persistence.TableGenerator;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import org.eclipse.persistence.annotations.IdValidation;
-import org.eclipse.persistence.annotations.PrimaryKey;
-
 @Entity
-@Table(name="contratos")
+@Table(name="CONTRATOS")
 @NamedQuery(name="Contrato.findByOcs", query="SELECT c FROM Contrato c WHERE c.ocs.id = ?1")
-@PrimaryKey(validation=IdValidation.NONE)
 public class Contrato implements Serializable {
 
   private static final long serialVersionUID = 1L;
 
 	@Id
-  //@GeneratedValue(strategy=GenerationType.IDENTITY)
-  @GeneratedValue(strategy=GenerationType.TABLE, generator="CONTRATOS")
-  @TableGenerator(name="CONTRATOS", allocationSize=1)
+  @GeneratedValue(strategy=GenerationType.TABLE, generator="TGC")
+  @TableGenerator(name="TGC", table="SEQUENCE", pkColumnName="SEQ_NAME", valueColumnName="SEQ_COUNT", pkColumnValue="CONTRATOS", allocationSize=1)
 	private Integer id;
 
 	@Temporal(TemporalType.DATE)

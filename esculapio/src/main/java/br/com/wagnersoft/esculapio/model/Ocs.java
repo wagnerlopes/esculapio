@@ -118,6 +118,18 @@ public class Ocs implements Comparable<Ocs>, Serializable {
       c.setOcs(this);
     }
   }
+
+  public void addDth(final Dth d) throws Exception {
+    if (this.getDth() == null) {
+      this.setDth(new ArrayList<Dth>(1));
+    }
+    if (!this.getDth().contains(d)) {
+      this.getDth().add(d);
+      if (d.getOcs() != this) {
+        d.setOcs(this);
+      }
+    }
+  }
   
   public Integer getId() {
 		return this.id;

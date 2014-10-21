@@ -1,10 +1,9 @@
 package br.com.wagnersoft.esculapio.services;
 
-import br.com.wagnersoft.esculapio.dao.OcsDao;
-import br.com.wagnersoft.esculapio.model.Ocs;
-
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.InputStream;
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -22,6 +21,10 @@ import org.apache.poi.ss.usermodel.Row;
 import org.directwebremoting.annotations.RemoteMethod;
 import org.directwebremoting.annotations.RemoteProxy;
 import org.springframework.transaction.annotation.Transactional;
+
+import br.com.wagnersoft.esculapio.dao.OcsDao;
+import br.com.wagnersoft.esculapio.model.Dth;
+import br.com.wagnersoft.esculapio.model.Ocs;
 
 /** Servico de OCS. (Tabela OCS)
  * @author Abreu Lopes
@@ -135,6 +138,79 @@ public class OcsService {
       }
     }
     return "Registros: excluídos = " + x + ", incluídos = " + lista.size();
+  }
+
+  @SuppressWarnings("resource")
+  @Transactional
+  public String carregarPlanilhaDth(final Ocs ocs, final File arquivo) throws Exception {
+    if (arquivo == null) {
+      throw new IllegalArgumentException("Planilha não foi informada");
+    }
+    int cont = 0;
+    int y = this.dao.execute("Dth.excluirPorOcs", ocs.getId());
+    Ocs o = this.dao.findById(ocs.getId());
+    final StringBuilder msg = new StringBuilder("Excluídos = ").append(y).append(" - Incluídos = ");
+    try (InputStream file = new FileInputStream(arquivo)) {
+      final Iterator<Row> rows = new HSSFWorkbook(new POIFSFileSystem(file)).getSheetAt(0).rowIterator();
+      inicio:
+        while(rows.hasNext()) {
+          cont += 1;
+          final HSSFRow row = (HSSFRow) rows.next();
+          if (cont == 1) {
+            continue inicio;
+          }
+          final Dth dth = new Dth();
+          final Iterator<Cell> cells = row.cellIterator();
+          while(cells.hasNext()) {
+            final HSSFCell cell = (HSSFCell) cells.next();
+            switch (cell.getColumnIndex()) {
+            case 0:
+              cell.setCellType(1);
+              final String codigo = cell.getStringCellValue();
+              if (codigo != null) {
+                dth.setCodigo(codigo);
+              } else {
+                continue inicio;
+              }
+              break;
+            case 1:
+              cell.setCellType(1);
+              final String descricao = cell.getStringCellValue();
+              if (descricao != null) {
+                dth.setDescricao(descricao.substring(0, descricao.length() > 255 ? 255 : descricao.length()));
+              } else {
+                continue inicio;
+              }
+              break;
+            case 2:
+              cell.setCellType(1);
+              final String unidade = cell.getStringCellValue();
+              if (unidade != null) {
+                dth.setUnidade(unidade);
+              } else {
+                continue inicio;
+              }
+              break;
+            case 3:
+              if (cell.getCellType() != Cell.CELL_TYPE_NUMERIC) {
+                throw new Exception("Coluna 4 (Valor) deve ser do tipo numérica");
+              }
+              final BigDecimal v = BigDecimal.valueOf(cell.getNumericCellValue());
+              if (v != null) {
+                dth.setValor(v);
+              } else {
+                continue inicio;
+              }
+              break;
+            default:
+              break;
+            }
+          }
+          o.addDth(dth);
+        }
+      this.dao.save(o);
+    }
+    return msg.append(cont).toString();
   }
   
 }

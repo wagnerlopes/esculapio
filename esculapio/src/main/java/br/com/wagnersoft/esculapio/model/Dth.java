@@ -11,6 +11,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
+import javax.persistence.TableGenerator;
 
 /**
  * The persistent class for the dth database table.
@@ -26,7 +27,8 @@ public class Dth implements Comparable<Dth>, Serializable {
   private static final long serialVersionUID = 1L;
 
 	@Id
-  @GeneratedValue(strategy=GenerationType.IDENTITY)
+  @GeneratedValue(strategy=GenerationType.TABLE, generator="TG_DTH")
+  @TableGenerator(name="TG_DTH", table="SEQUENCE", pkColumnName="SEQ_NAME", valueColumnName="SEQ_COUNT", pkColumnValue="DTH", allocationSize=1)
 	private Integer id;
 
 	private String codigo;
@@ -38,7 +40,7 @@ public class Dth implements Comparable<Dth>, Serializable {
 	private BigDecimal valor;
 
   @ManyToOne
-  @JoinColumn(name="ocs_id")
+  @JoinColumn(name="ocs_id", updatable=false, nullable=false)
   private Ocs ocs;
 
 	public Dth() {
@@ -47,7 +49,6 @@ public class Dth implements Comparable<Dth>, Serializable {
   @Override
   public int compareTo(Dth o) {
     return this.getCodigo().compareTo(o.getCodigo());
-//    return this.getDescricao().compareTo(o.getDescricao());
   }
 
 	@Override
@@ -55,11 +56,11 @@ public class Dth implements Comparable<Dth>, Serializable {
 	  return this.getCodigo() == null ? "DTH" :new StringBuilder(this.getCodigo()).append(" - ").append(this.getCodigo()).toString();
 	}
 	
-	@Override
+  @Override
   public int hashCode() {
     final int prime = 31;
     int result = 1;
-    result = prime * result + ((id == null) ? 0 : id.hashCode());
+    result = prime * result + ((codigo == null) ? 0 : codigo.hashCode());
     return result;
   }
 
@@ -72,14 +73,13 @@ public class Dth implements Comparable<Dth>, Serializable {
     if (getClass() != obj.getClass())
       return false;
     Dth other = (Dth) obj;
-    if (id == null) {
-      if (other.id != null)
+    if (codigo == null) {
+      if (other.codigo != null)
         return false;
-    } else if (!id.equals(other.id))
+    } else if (!codigo.equals(other.codigo))
       return false;
     return true;
   }
-
 
   public Integer getId() {
     return id;

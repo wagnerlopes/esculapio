@@ -30,20 +30,20 @@ function listarProfissional(lista,valor){
 
 
 function navega(){
-  if ($(location).attr('pathname') != '/hospital/pm!comparar.action'){
+  if ($(location).attr('pathname') != '/esculapio/pm!comparar.action'){
     $(location).attr('href','pm!comparar.action');
   }
 }
 
 function listarPM(desc, lista){
-  $('#bc2').text('Procedimento Médico');
+  $('#bc2').text('Procedimento Mï¿½dico');
   $('#formPM').css('display','block');
   dwr.util.removeAllRows('tabHead');
   dwr.util.removeAllRows('tabBody');
   pmService.listarPorDescricao(desc,
     {callback:function(pm){
       dwr.util.removeAllOptions(lista);
-      dwr.util.addOptions(lista, {'-1':'Selecione um Procedimento Médico...'});
+      dwr.util.addOptions(lista, {'-1':'Selecione um Procedimento Mï¿½dico...'});
       dwr.util.addOptions(lista, pm, 'id', function(x){return x.descricao + ' (' + x.tussf + ')';});
     },
     errorHandler:function(errorString, exception){
@@ -106,7 +106,7 @@ function listarOcsPM(pmId){
 }
 
 function listarDth(desc){
-  $('#bc2').text('Diárias e Taxas Hospitalares');
+  $('#bc2').text('Diï¿½rias e Taxas Hospitalares');
   $('#formPM').css('display','none');
   dwr.util.removeAllRows('tabHead');
   dwr.util.removeAllRows('tabBody');

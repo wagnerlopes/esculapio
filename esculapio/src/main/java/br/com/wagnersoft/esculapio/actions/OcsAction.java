@@ -1,15 +1,14 @@
 package br.com.wagnersoft.esculapio.actions;
 
-import br.com.wagnersoft.esculapio.core.UploadHelper;
-import br.com.wagnersoft.esculapio.model.Ocs;
-import br.com.wagnersoft.esculapio.services.DthService;
-import br.com.wagnersoft.esculapio.services.OcsPmService;
-import br.com.wagnersoft.esculapio.services.OcsService;
-
 import java.io.File;
 import java.util.List;
 
 import javax.inject.Inject;
+
+import br.com.wagnersoft.esculapio.core.UploadHelper;
+import br.com.wagnersoft.esculapio.model.Ocs;
+import br.com.wagnersoft.esculapio.services.OcsPmService;
+import br.com.wagnersoft.esculapio.services.OcsService;
 
 import com.opensymphony.xwork2.ActionSupport;
 
@@ -34,13 +33,10 @@ public class OcsAction extends ActionSupport {
   private int tipo;
 
   @Inject
-  private OcsService ocsServico;
+  private OcsService ocsService;
   
   @Inject
   private OcsPmService ocsPmService;
-
-  @Inject
-  private DthService dthService;
 
   public String carregarPlanilha() {
     File arq = null;
@@ -49,7 +45,7 @@ public class OcsAction extends ActionSupport {
         arq = new UploadHelper().copyFile(this.getArquivo(), this.getArquivoFileName());
         switch (tipo) {
         case 1:
-          this.addActionMessage(this.dthService.carregarPlanilha(this.getOcs(), arq));
+          this.addActionMessage(this.ocsService.carregarPlanilhaDth(this.getOcs(), arq));
           break;
         default:
           this.addActionMessage(this.ocsPmService.carregarPlanilha(this.getOcs(), arq));
@@ -71,7 +67,7 @@ public class OcsAction extends ActionSupport {
   @Override
   public String input() throws Exception {
     if (this.getOcs() != null && this.getOcs().getId() != null) {
-      this.setOcs(this.ocsServico.recuperar(this.getOcs().getId()));
+      this.setOcs(this.ocsService.recuperar(this.getOcs().getId()));
     }
     return super.input();
   }
@@ -79,11 +75,11 @@ public class OcsAction extends ActionSupport {
   public String listar() {
     try {
       if (this.getOcs() == null || this.getOcs().getId() == null) {
-        this.setLista(this.ocsServico.listar());
+        this.setLista(this.ocsService.listar());
         //this.total = this.ocsServico.contar();
         //this.maxPage = (long) Math.ceil((float)this.total / 10);
       } else {
-        this.setOcs(this.ocsServico.recuperar(this.ocs.getId()));
+        this.setOcs(this.ocsService.recuperar(this.ocs.getId()));
         return INPUT;
       }
     } catch (Throwable e) {
@@ -94,8 +90,8 @@ public class OcsAction extends ActionSupport {
 
   public String salvar() {
     try {
-      this.ocsServico.salvar(this.getOcs());
-      this.setLista(this.ocsServico.listar());
+      this.ocsService.salvar(this.getOcs());
+      this.setLista(this.ocsService.listar());
     } catch (Throwable e) {
       this.addActionError(e.getMessage());
     }
@@ -104,7 +100,7 @@ public class OcsAction extends ActionSupport {
 
   public String dth() {
     try {
-      this.setOcs(this.ocsServico.recuperar(this.getOcs().getId()));
+      this.setOcs(this.ocsService.recuperar(this.getOcs().getId()));
       if (this.getOcs().getDth() == null || this.getOcs().getDth().isEmpty()) {
         throw new Exception("Não há Diárias e Taxas Hospitalares cadastrados para este OCS.");
       }
@@ -117,7 +113,7 @@ public class OcsAction extends ActionSupport {
   
   public String pm() {
     try {
-      this.setOcs(this.ocsServico.recuperar(this.getOcs().getId()));
+      this.setOcs(this.ocsService.recuperar(this.getOcs().getId()));
       if (this.getOcs().getOcsPm() == null || this.getOcs().getOcsPm().isEmpty()) {
         throw new Exception("Não há Procedimentos Médicos cadastrados para este OCS.");
       }
@@ -130,7 +126,7 @@ public class OcsAction extends ActionSupport {
 
   public String contratos() {
     try {
-      this.setOcs(this.ocsServico.recuperar(this.getOcs().getId()));
+      this.setOcs(this.ocsService.recuperar(this.getOcs().getId()));
       if (this.getOcs().getContratos() == null || this.getOcs().getContratos().isEmpty()) {
         throw new Exception("Não há Termos de Contrato cadastrados para este OCS.");
       }
@@ -143,7 +139,7 @@ public class OcsAction extends ActionSupport {
 
   public String guias() {
     try {
-      this.setOcs(this.ocsServico.recuperar(this.getOcs().getId()));
+      this.setOcs(this.ocsService.recuperar(this.getOcs().getId()));
       if (this.getOcs().getGuias() == null || this.getOcs().getGuias().isEmpty()) {
         throw new Exception("Não há Guias de Encaminhamento emitidas para este OCS.");
       }

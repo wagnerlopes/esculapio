@@ -1,29 +1,17 @@
 package br.com.wagnersoft.esculapio.services;
 
-import br.com.wagnersoft.esculapio.dao.DthDao;
-import br.com.wagnersoft.esculapio.model.Dth;
-import br.com.wagnersoft.esculapio.model.Ocs;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 import java.util.List;
 
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import org.apache.poi.hssf.usermodel.HSSFCell;
-import org.apache.poi.hssf.usermodel.HSSFRow;
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.poifs.filesystem.POIFSFileSystem;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
 import org.directwebremoting.annotations.RemoteMethod;
 import org.directwebremoting.annotations.RemoteProxy;
 import org.springframework.transaction.annotation.Transactional;
+
+import br.com.wagnersoft.esculapio.dao.DthDao;
+import br.com.wagnersoft.esculapio.model.Dth;
 
 /** Serviço para Diarias e Taxas Hospitalares. (Tabela DTH)
  * @author Abreu Lopes
@@ -36,10 +24,10 @@ public class DthService {
 
   @Inject
   private DthDao dao;
-  
+
   public DthService() {
   }
-  
+
   @Transactional
   public void excluir(final Integer id) throws Exception {
     if (id == null) {
@@ -65,7 +53,7 @@ public class DthService {
     }
     return lista;
   }
-  
+
   @RemoteMethod
   public Dth[] listarPorDesc(final String descricao) throws Exception {
     final List<Dth> lista = this.dao.findByNamedQuery("Dth.findByDesc", descricao);
@@ -104,73 +92,4 @@ public class DthService {
     }
   }
 
-  @Transactional
-  public String carregarPlanilha(final Ocs ocs, final File arquivo) throws Exception {
-    if (arquivo == null) {
-      throw new IllegalArgumentException("Planilha não foi informada");
-    }
-    final List<Dth> lista = new ArrayList<>();
-    int x = this.dao.execute("Dth.excluirPorOcs", ocs.getId());
-    final Iterator<Row> rows = new HSSFWorkbook(new POIFSFileSystem(new FileInputStream(arquivo))).getSheetAt(0).rowIterator();
-    int cont = 0;
-    inicio:
-    while(rows.hasNext()) {
-      cont += 1;
-      final HSSFRow row = (HSSFRow) rows.next();
-      if (cont == 1) {
-        continue inicio;
-      }
-      final Dth dth = new Dth();
-      dth.setOcs(ocs);
-      final Iterator<Cell> cells = row.cellIterator();
-      while(cells.hasNext()) {
-        final HSSFCell cell = (HSSFCell) cells.next();
-        switch (cell.getColumnIndex()) {
-        case 0:
-          cell.setCellType(1);
-          final String codigo = cell.getStringCellValue();
-          if (codigo != null) {
-            dth.setCodigo(codigo);
-          } else {
-            continue inicio;
-          }
-          break;
-        case 1:
-          cell.setCellType(1);
-          final String descricao = cell.getStringCellValue();
-          if (descricao != null) {
-            dth.setDescricao(descricao.substring(0, descricao.length() > 255 ? 255 : descricao.length()));
-          } else {
-            continue inicio;
-          }
-          break;
-        case 2:
-          cell.setCellType(1);
-          final String unidade = cell.getStringCellValue();
-          if (unidade != null) {
-            dth.setUnidade(unidade);
-          } else {
-            continue inicio;
-          }
-          break;
-        case 3:
-          if (cell.getCellType() != Cell.CELL_TYPE_NUMERIC) {
-            throw new Exception("Coluna 4 (Valor) deve ser do tipo numérica");
-          }
-          final BigDecimal v = BigDecimal.valueOf(cell.getNumericCellValue());
-          if (v != null) {
-            dth.setValor(v);
-          } else {
-            continue inicio;
-          }
-          break;
-        default:
-          break;
-        }
-      }
-      lista.add(this.dao.save(dth));
-    }
-    return "Excluídos = " + x + " - Incluídos = " + lista.size();
-  }
-  
 }
