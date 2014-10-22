@@ -1,11 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.wagnersoft</groupId>
+  <groupId>br.com.wagnersoft</groupId>
   <artifactId>esculapio</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Sistema de Controle de Guias Hospitalares</name>
   <dependencies>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -145,7 +143,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.11</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
@@ -167,10 +165,6 @@
           <exclude>**/dados/*</exclude>
           <exclude>**/docs/*</exclude>
         </excludes>
-      </resource>
-      <resource>
-        <targetPath>${project.build.directory}/${project.artifactId}-${project.version}</targetPath>
-        <directory>${basedir}/src/main/webapp</directory>
       </resource>
     </resources>
     <plugins>
@@ -223,4 +217,8 @@
       </properties>
     </developer>
   </developers>
+  <name>Esculápio</name>
+  <description>Sistema para o controle de emissão de guias de encaminhamento hospitalares, baseado no padrão TISS. Controle de beneficiários, profissionais de saúde, organizações conveniadas de saúde e procedimentos médicos com o código TUSS.</description>
 </project>
+
+<!-- -Ddependency.locations.enabled=false -->

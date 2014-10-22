@@ -15,7 +15,7 @@ public class OcsTest extends TestCase {
   @Test
   public void testOcs() throws Exception {
     Ocs ocs = new Ocs();
-    String c = ocs.getContato();
+    ocs.setCnpj("123456789");
     assertTrue(true);  
   }
   
