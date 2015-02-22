@@ -55,7 +55,8 @@ public class ProfissionalService {
     return this.listar().toArray(new Profissional[0]);
   }
   
-  @Transactional
+  @SuppressWarnings("resource")
+@Transactional
   public String carregarPlanilha(final File arquivo) throws Exception {
     if (arquivo == null) {
       throw new IllegalArgumentException("Planilha não foi informada");

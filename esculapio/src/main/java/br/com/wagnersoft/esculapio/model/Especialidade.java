@@ -11,7 +11,7 @@ import javax.persistence.*;
 @Entity
 @Table(name="especialidades")
 @NamedQueries(value={
-  @NamedQuery(name="Especialidade.findByDesc", query="SELECT e FROM Especialidade e WHERE UPPER(e.descricao) LIKE UPPER(CONCAT('%',CONCAT(?1,'%')))"),
+  @NamedQuery(name="Especialidade.findByDesc", query="SELECT e FROM Especialidade e WHERE UPPER(e.descricao) LIKE ?1"),
 })
 public class Especialidade implements Serializable {
 

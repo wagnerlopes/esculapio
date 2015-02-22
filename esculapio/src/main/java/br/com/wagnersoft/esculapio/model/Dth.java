@@ -18,7 +18,7 @@ import javax.persistence.TableGenerator;
  */
 @Entity
 @NamedQueries(value={
-  @NamedQuery(name="Dth.findByDesc", query="SELECT o FROM Dth o WHERE UPPER(o.descricao) LIKE UPPER(CONCAT('%',CONCAT(?1,'%')))"),
+  @NamedQuery(name="Dth.findByDesc", query="SELECT o FROM Dth o WHERE UPPER(o.descricao) LIKE ?1"),
   @NamedQuery(name="Dth.findByOCS", query="SELECT o FROM Dth o WHERE o.ocs.id = ?1"),
   @NamedQuery(name="Dth.excluirPorOcs", query="DELETE FROM Dth o WHERE o.ocs.id = ?1")
 })

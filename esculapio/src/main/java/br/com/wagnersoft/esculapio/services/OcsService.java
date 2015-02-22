@@ -95,7 +95,8 @@ public class OcsService {
     }
   }
 
-  @Transactional
+  @SuppressWarnings("resource")
+@Transactional
   public String carregarPlanilha(final File arquivo) throws Exception {
     if (arquivo == null) {
       throw new IllegalArgumentException("Planilha não foi informada");

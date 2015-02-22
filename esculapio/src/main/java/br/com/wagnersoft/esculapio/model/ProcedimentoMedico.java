@@ -15,7 +15,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="procedimentos_medicos")
 @NamedQueries(value={
-  @NamedQuery(name="ProcedimentoMedico.findByDesc", query="SELECT p FROM ProcedimentoMedico p WHERE UPPER(p.descricao) LIKE UPPER(CONCAT('%',CONCAT(?1,'%')))"),
+  @NamedQuery(name="ProcedimentoMedico.findByDesc", query="SELECT p FROM ProcedimentoMedico p WHERE UPPER(p.descricao) LIKE ?1"),
   @NamedQuery(name="ProcedimentoMedico.findByCodigo", query="SELECT p FROM ProcedimentoMedico p WHERE p.tuss = ?1")
 })
 public class ProcedimentoMedico implements Comparable<ProcedimentoMedico>, Serializable {

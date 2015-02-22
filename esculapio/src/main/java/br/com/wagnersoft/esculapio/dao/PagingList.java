@@ -16,6 +16,7 @@ import java.util.AbstractList;
 import java.util.List;
 
 import javax.persistence.Parameter;
+import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 
 import org.eclipse.persistence.jpa.JpaHelper;
@@ -118,7 +119,7 @@ public class PagingList<X> extends AbstractList<X> {
     TypedQuery<Number> countQuery = (TypedQuery<Number>) JpaHelper.createQuery(rq, queryImpl.getEntityManager());
     // Copy parameters
     for (Parameter p : getQuery().getParameters()) {
-      countQuery.setParameter(p, getQuery().getParameterValue(p));
+      ((Query) countQuery).setParameter(p, getQuery().getParameterValue(p));
     }
     return countQuery.getSingleResult().intValue();
   }
