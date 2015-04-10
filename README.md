@@ -5,4 +5,4 @@
 * Contratos de OCS/PSA;
 * Procedimentos médicos e materiais de saúde.
 
-© 2013-2014 Wagber Lopes. See [`LICENSE`](LICENSE).
+© 2013-2014 Wagner Lopes. See [`LICENSE`](LICENSE).
