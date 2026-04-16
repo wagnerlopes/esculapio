@@ -1,8 +1,8 @@
-#Esculapio XR2
+#Esculapio
 
-* Controle de emissão de guias de encaminhamento hospitalar;
-* Cadastro de beneficiários de saúde;
+* Controle de emissao de guias de encaminhamento hospitalar;
+* Cadastro de beneficiarios de saude;
 * Contratos de OCS/PSA;
-* Procedimentos médicos e materiais de saúde.
+* Procedimentos medicos e materiais de saude.
 
-© 2013-2026 Wagner Lopes. See [`LICENSE`](LICENSE).
+� 2013-2014 Wagber Lopes. See [`LICENSE`](LICENSE).
