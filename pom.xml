@@ -1,163 +1,94 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
   <modelVersion>4.0.0</modelVersion>
+
   <groupId>br.com.wagnersoft</groupId>
   <artifactId>esculapio</artifactId>
-  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <name>br.com.wagnersoft.esculapio</name>
+  <description>TEST API ESCULAPIO</description>
+  <inceptionYear>2020</inceptionYear>
+  <url>https://wagnerlopes.github.io/</url>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <java.version>17</java.version>
+  </properties>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>4.0.5</version>
+  </parent>
+
   <dependencies>
+
     <dependency>
-	  <groupId>jstl</groupId>
-	  <artifactId>jstl</artifactId>
-	  <version>1.2</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-actuator</artifactId>
     </dependency>
+
     <dependency>
-	  <groupId>javax.servlet</groupId>
-	  <artifactId>javax.servlet-api</artifactId>
-	  <version>3.1.0</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-data-jpa</artifactId>
     </dependency>
+
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-aop</artifactId>
-      <version>4.1.1.RELEASE</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-jdbc</artifactId>
     </dependency>
+
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-aspects</artifactId>
-      <version>4.1.1.RELEASE</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+      <exclusions>
+        <exclusion>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-tomcat</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
+
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-beans</artifactId>
-      <version>4.1.1.RELEASE</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-undertow</artifactId>
     </dependency>
+
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>4.1.1.RELEASE</version>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
     </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context-support</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-expression</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-instrument</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-instrument-tomcat</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-jdbc</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-orm</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-tx</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-web</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-webmvc</artifactId>
-      <version>4.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-	  <groupId>org.eclipse.persistence</groupId>
-	  <artifactId>eclipselink</artifactId>
-	  <version>2.6.0-M3</version>
-    </dependency>
-    <dependency>
-	  <groupId>org.apache.struts</groupId>
-	  <artifactId>struts2-core</artifactId>
-	  <version>2.3.16.3</version>
-    </dependency>
-    <dependency>
-	  <groupId>org.apache.struts</groupId>
-	  <artifactId>struts2-spring-plugin</artifactId>
-	  <version>2.3.16.3</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.tiles</groupId>
-      <artifactId>tiles-core</artifactId>
-      <version>2.2.2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.tiles</groupId>
-      <artifactId>tiles-jsp</artifactId>
-      <version>2.2.2</version>
-    </dependency>
-  	<dependency>
-  	  <groupId>org.apache.velocity</groupId>
-	  <artifactId>velocity</artifactId>
-	  <version>1.7</version>
-    </dependency>
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-log4j12</artifactId>
-      <version>1.7.7</version>
-    </dependency>
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>log4j-over-slf4j</artifactId>
-      <version>1.7.7</version>
-    </dependency>
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>jcl-over-slf4j</artifactId>
-      <version>1.7.7</version>
-    </dependency>
-    <dependency>
-	  <groupId>javax.servlet</groupId>
-	  <artifactId>javax.servlet-api</artifactId>
-	  <version>3.1.0</version>
-   </dependency>
-    <dependency>
-	  <groupId>javax.inject</groupId>
-	  <artifactId>javax.inject</artifactId>
-	  <version>1</version>
-    </dependency>
+
     <dependency>
 	  <groupId>org.apache.poi</groupId>
 	  <artifactId>poi</artifactId>
 	  <version>3.11-beta2</version>
     </dependency>
+
+    <!-- TESTE -->
     <dependency>
-      <groupId>org.directwebremoting</groupId>
-      <artifactId>dwr</artifactId>
-      <version>3.0.0-rc3-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.reflections</groupId>
+      <artifactId>reflections</artifactId>
+      <version>0.9.12</version>
+      <scope>test</scope>
+    </dependency>
+
   </dependencies>
+
   <repositories>
+  
     <repository>
       <id>oss-sonatype-snapshots</id>
       <name>OSS Sonatype Snapshots Repository</name>
@@ -165,8 +96,11 @@
       <releases><enabled>false</enabled></releases>
       <snapshots><enabled>true</enabled></snapshots>
     </repository>
+
   </repositories>
+
   <build>
+  
     <resources>
       <resource>
         <directory>src/main/resources</directory>
@@ -177,30 +111,82 @@
         </excludes>
       </resource>
     </resources>
+	
     <plugins>
+
       <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.1</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <executable>false</executable>
         </configuration>
       </plugin>
+
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <annotationProcessorPaths>
+            <path>
+              <groupId>org.projectlombok</groupId>
+              <artifactId>lombok</artifactId>
+              <version>1.18.44</version>
+            </path>
+          </annotationProcessorPaths>		  
+          <source>${java.version}</source>
+          <target>${java.version}</target>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+              <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <configuration>
+          <skipTests>true</skipTests>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.15.0</version>
+        <configuration>
+          <source>${java.version}</source>
+          <target>${java.version}</target>
+        </configuration>
+      </plugin>
+	  
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
-        <version>2.4</version>
+        <version>3.5.1</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>
+
     </plugins>
+
   </build>
+
   <url>http://www.wagnersoft.com.br/esculapio</url>
+
   <organization>
-    <name>WagnerSoft</name>
+    <name>WagnerSoft - WL</name>
     <url>http://www.wagnersoft.com.br</url>
   </organization>
+
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
@@ -209,7 +195,9 @@
       <comments>A business-friendly OSS license</comments>
     </license>
   </licenses>
+
   <developers>
+
     <developer>
       <id>wlopes</id>
       <name>Wagner Lopes</name>
@@ -226,9 +214,13 @@
         <picUrl>http://tinyurl.com/prv4t</picUrl>
       </properties>
     </developer>
+
   </developers>
+
   <name>Esculápio 2</name>
+
   <description>Sistema para o controle de emissão de guias de encaminhamento hospitalares, baseado no padrão TISS. Controle de beneficiários, profissionais de saúde, organizações conveniadas de saúde e procedimentos médicos com o código TUSS.</description>
+
 </project>
 
 <!-- -Ddependency.locations.enabled=false -->
