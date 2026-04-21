@@ -180,11 +180,9 @@
 
   </build>
 
-  <url>http://www.wagnersoft.com.br/esculapio</url>
-
   <organization>
     <name>WagnerSoft - WL</name>
-    <url>http://www.wagnersoft.com.br</url>
+    <url>https://github.com/WagnerSoft-WL</url>
   </organization>
 
   <licenses>
@@ -203,8 +201,8 @@
       <name>Wagner Lopes</name>
       <email>wagner.luis.alopes@gmail.com</email>
       <url>http://www.wagnersoft.com.br/wlopes</url>
-      <organization>WagnerSoft</organization>
-      <organizationUrl>http://www.wagnersoft.com.br</organizationUrl>
+      <organization>WagnerSoft - WL</organization>
+      <organizationUrl>https://github.com/WagnerSoft-WL</organizationUrl>
       <roles>
         <role>architect</role>
         <role>developer</role>
