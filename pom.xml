@@ -215,10 +215,6 @@
 
   </developers>
 
-  <name>Esculápio 2</name>
-
-  <description>Sistema para o controle de emissão de guias de encaminhamento hospitalares, baseado no padrão TISS. Controle de beneficiários, profissionais de saúde, organizações conveniadas de saúde e procedimentos médicos com o código TUSS.</description>
-
 </project>
 
 <!-- -Ddependency.locations.enabled=false -->
