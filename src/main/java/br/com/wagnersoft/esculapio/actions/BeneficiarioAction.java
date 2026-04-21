@@ -27,7 +27,7 @@ public class BeneficiarioAction extends ActionSupport {
   private BeneficiarioService servico;
 
   public String excluir() {
-    this.addActionMessage("Beneficiario não pode ser excluído.");
+    this.addActionMessage("Beneficiario nao pode ser excluido.");
     return SUCCESS;
   }
 
@@ -35,7 +35,7 @@ public class BeneficiarioAction extends ActionSupport {
     try {
       this.setLista(this.servico.listar());
       if (this.getLista() == null || this.getLista().isEmpty()) {
-        this.addActionMessage("Não foi encontrado nenhum Beneficiário correspondente.");
+        this.addActionMessage("Nao foi encontrado nenhum Beneficiario correspondente.");
       }
     } catch (Throwable e) {
       this.addActionError(e.getMessage());
