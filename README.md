@@ -1,4 +1,4 @@
-# Esculapio - Test API
+# Esculapio
 
 * Controle de emissao de guias de encaminhamento hospitalar;
 * Cadastro de beneficiarios de saude;
