@@ -1,6 +1,7 @@
-# Esculapio
+# Esculapio (Legado)
 
-* Controle de emissao de guias de encaminhamento hospitalar;
-* Cadastro de beneficiarios de saude;
-* Contratos de OCS/PSA;
-* Procedimentos medicos e materiais de saude.
+* Modelo de dados de guias de saúde;
+* Beneficiários, Procedimentos médicos, Profissionais e Estabelecimentos.
+
+-------
+(c) 2013. WagnerSoft.
