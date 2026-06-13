@@ -10,9 +10,10 @@
   <artifactId>esculapio</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
+  
   <name>br.com.wagnersoft.esculapio</name>
-  <description>TEST API ESCULAPIO</description>
-  <inceptionYear>2020</inceptionYear>
+  <description>ESCULAPIO (LEGADO)</description>
+  <inceptionYear>2013</inceptionYear>
   <url>https://wagnerlopes.github.io/</url>
   
   <properties>
@@ -24,7 +25,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>4.0.5</version>
+    <version>4.0.6</version>
   </parent>
 
   <dependencies>
@@ -53,12 +54,6 @@
           <artifactId>spring-boot-starter-tomcat</artifactId>
         </exclusion>
       </exclusions>
-    </dependency>
-
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-undertow</artifactId>
-      <version>4.0.0-M1</version>
     </dependency>
 
     <dependency>
